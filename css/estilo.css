@@ -1,0 +1,111 @@
+body {
+    font-family: gill sans,sans-serif;
+     margin: 0px;
+}
+header {
+    margin: 15px;
+}
+#img-delicias {
+    display:block;
+     margin:auto;
+}
+#texto-navegacio{
+    text-decoration: none;
+     color: black;
+}
+main{
+    height: 26cm;
+    width: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+    position: relative;
+}
+#seccion-info {
+    height: 320px;
+    width: 300px;
+    margin:auto;
+    margin-left: 0px;
+}
+#texto-sobre-mi {
+    margin-bottom: 20px;
+}
+#img-isagil {
+    display:block;
+    margin:auto;
+    margin-bottom: 30px;
+    width: 60%;
+    height: auto;
+}
+#p-bienvenido {
+    font-size:15px;
+     color: gray;
+}
+#seccion-libro {
+    margin: 0px;
+    margin-bottom: 50px;
+    height: 390px;
+    width: 300px;
+    background-color:whitesmoke;
+}
+#p-suscribete {
+    margin-bottom: 0px;
+    margin-top: -5px;
+    font-size: 16px;
+    position: relative;
+}
+#img-libro {
+    height: 290px;
+    width: auto;
+}
+#p-libro {
+    font-size: 14px;
+    position: relative;
+    margin: 7px;
+}
+#seccion-apuntame {
+    height: 19px;
+    margin-top: 10px;
+    border-bottom: 20px;
+    width: 300px;
+    background-color: rgb(122,186,150);
+}
+#secciones-recetas {
+    position:relative;
+    top: 0px; 
+    height:auto;
+    right: 0cm;
+    width: 740px;
+    margin-bottom: -300px;
+}
+#seccion-pasta {
+    position: absolute;
+    height: 740px;
+    width: 387.5px;
+    top: -20cm;
+    right: -2cm;
+}
+#img-pasta {
+    position: relative;
+    height: 35%;
+}
+#titulo-pasta {
+    position: relative;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+#p-data-pasta {
+    position: relative;
+    margin: 0px;
+}
+#linea-superior {
+    margin-bottom: 1px;
+    height: 1px;
+    background-color: #7aba96;
+    border: none;
+}
+#linea-inferior {
+    margin-top: 1px;
+    height: 1px;
+    background-color: #7aba96;
+    border: none;
+}

@@ -6,49 +6,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pagina Web | Pàgina Principal</title>
     <link rel="icon" type="image/x-icon" href="imagenes/favicon.jpg">
+    <link rel="stylesheet" href="css/estilo.css">
 </head>
-<body style="font-family: gill sans,sans-serif; margin: 0px;">
-    <header style="margin: 15px;">
-        <img src="imagenes/Logo-Delicias.png" alt="Imagen" style="display:block; margin:auto;" ></img>
+<body>
+    <header ">
+        <img id="img-delicias" src="imagenes/Logo-Delicias.png" alt="Imagen" ></img>
         <nav>
           <div align="center">
             <hr><br>
-            <a href="index.html" style="text-decoration: none; color: black;" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>INICIO</b> &nbsp;</a>
-            <a href="http://" style="text-decoration: none; color: black;" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>SOBRE MI </b>&nbsp;</a>
-            <a href="listado/listado.html" style="text-decoration: none; color: black;" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>RECETAS</b> &nbsp;</a>
-            <a href="contacto/contacto.html" style="text-decoration: none; color: black;" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>CONTACTO</b> &nbsp;</a>
-            <a href="http://" style="text-decoration: none; color: black;" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>OTRAS COSAS</b> &nbsp;</a>
-      </div> 
-      <br>
-      <hr>
+            <a id="texto-navegacio" href="index.html" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>INICIO</b> &nbsp;</a>
+            <a id="texto-navegacio" href="http://" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>SOBRE MI </b>&nbsp;</a>
+            <a id="texto-navegacio" href="listado/listado.html" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>RECETAS</b> &nbsp;</a>
+            <a id="texto-navegacio" href="contacto/contacto.html" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>CONTACTO</b> &nbsp;</a>
+            <a id="texto-navegacio" href="http://" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>OTRAS COSAS</b> &nbsp;</a>
+          </div> 
+            <br><hr>
         </nav>
     </header>
-    <main align="center" style="height: 26cm; width: 80%; margin-left: 15%; margin-right: 15%; position: relative;">
+    <main align="center">
 
-      <section style="height: 320px; width: 300px; margin:auto; margin-left: 0px;">
-        <h3 align="center" margin="0px" style="margin-bottom: 20px;"><b>Sobre mi </b></h3> 
-        <img src="imagenes/isagil.png" alt="Imagen" style="display:block; margin:auto; margin-bottom: 30px; width: 60%; height: auto;">
-        <p style="font-size:15px; color: gray;" align="left">
-            Hola bienvenid@ a mi blog, un espacio donde quiero compartir mis recetas vegetarianas y veganas favoritas...</p> 
+      <section id="seccion-info">
+        <h3 id="texto-sobre-mi" align="center" margin="0px"><b>Sobre mi </b></h3> 
+        <img id="img-isagil" src="imagenes/isagil.png">
+        <p id="p-bienvenido" align="left">Hola bienvenid@ a mi blog, un espacio donde quiero compartir mis recetas vegetarianas y veganas favoritas...</p> 
       </section>
 
-        <div style=" margin: 0px; margin-bottom: 50px; height: 390px; width: 300px; background-color:whitesmoke;">
-          <section >
+        <div id="seccion-libro">
+          <section>
             <br>
-            <h5 style="margin-bottom: 0px; margin-top: -5px; font-size: 16px; position: relative;">Suscribete a mi blog</h5>
-            <img src="imagenes/libro.png" alt="Libro" style=" height: 290px; width: auto;"> 
-            <p align="left" style="font-size: 14px; position: relative; margin: 7px;">Y consigue gratis mi eBook con 10 recetas exclusivas con superalimentos</p> 
+            <h5 id="p-suscribete">Suscribete a mi blog</h5>
+            <img id="img-libro" src="imagenes/libro.png"> 
+            <p id="p-libro" align="left">Y consigue gratis mi eBook con 10 recetas exclusivas con superalimentos</p> 
           </section>
-          <section align="center" style="height: 19px; margin-top: 10px; border-bottom: 20px; width: 300px; background-color: rgb(122,186,150);"><p><b>Apúntame</b></p></section>
-      </div>
-      <section style="position:relative; top: 0px;  height:auto; right: 0cm; width: 740px; margin-bottom: -300px; ">
-        <article  style="position: absolute; height: 740px; width: 387.5px; top: -20cm; right: -2cm;">
-          <img src="imagenes/Pasta.jpg" alt="" style="position: relative; height: 35%;">
+          <section id="seccion-apuntame" align="center"><p><b>Apúntame</b></p></section>
+        </div>
+      <section id="secciones-recetas">
+        <article id="seccion-pasta">
+          <img id="img-pasta" src="imagenes/Pasta.jpg">
           <br><br>
-          <a href="receta/receta.html" style="position: relative; text-decoration: none; color: rgb(0, 0, 0);"><b>Pasta con salsa de coliflor y pimienta de Jamaica</b></a>
-          <hr style="margin-bottom: 1px;height: 1px; background-color: #7aba96; border: none;">
-          <p style="position: relative; margin: 0px;">13 marzo, 2019</p>
-          <hr style="margin-top: 1px; height: 1px; background-color: #7aba96; border: none;">
+          <a id="titulo-pasta" href="receta/receta.html"><b>Pasta con salsa de coliflor y pimienta de Jamaica</b></a>
+          <hr id="linea-superior">
+          <p id="p-data-pasta">13 marzo, 2019</p>
+          <hr id="linea-inferior">
           <p align="left">Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales que la convierten en...</p>
         </article>
         <article style="position: absolute; height: 740px; width: 387.5px; top: -20cm; right: -15cm;">
@@ -88,7 +87,6 @@
       <a href="http://" style="text-decoration: none; color: rgb(255, 255, 255);" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">PINTEREST &nbsp;</a>
       <a href="http://" style="text-decoration: none; color: rgb(255, 255, 255);" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">EMAIL &nbsp;</a>
       <a href="http://" style="text-decoration: none; color: rgb(255, 255, 255);" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">RSS &nbsp;</a>
-
     </footer>
 </body>
 </html>
