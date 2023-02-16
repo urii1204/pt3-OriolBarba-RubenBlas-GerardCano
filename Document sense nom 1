@@ -1,0 +1,258 @@
+body {
+    font-family: gill sans,sans-serif;
+     margin: 0px;
+}
+header {
+    margin: 15px;
+}
+li {
+    position: relative;
+    list-style: none;
+    width: auto;
+}
+#img-delicias {
+    display:block;
+     margin:auto;
+}
+#texto-navegacio{
+    text-decoration: none;
+     color: black;
+}
+main{
+    height: 26c
+    Co-authored-by: RubenBlas <RubenBlas@users.noreply.github.com>{
+    height: 320px;
+    width: 300px;
+    margin:auto;
+    margin-left: 0px;
+}
+#texto-sobre-mi {
+    margin-bottom: 20px;
+}
+#img-isagil {
+    display:block;
+    margin:auto;
+    margin-bottom: 30px;
+    width: 60%;
+    height: auto;
+    Co-authored-by: RubenBlas <RubenBlas@users.noreply.github.com>lor:whitesmoke;
+}
+#p-suscribete {
+    margin-bottom: 0px;
+    margin-top: -5px;
+    font-size: 16px;
+    position: relative;
+}
+#img-libro {
+    height: 290px;
+    width: auto;
+}
+#p-libro {
+    font-size: 14px;
+    position: relative;
+    margin: 7px;
+}
+#seccion-apuntame {
+    height: 19px;
+    margin-top: 10px;
+    border-bottom: 20px;
+    width: 300px;
+    background-color: rgb(122,186,150);
+}
+#secciones-recetas {
+    position:relative;
+    top: 0px; 
+    height:auto;
+    right: 0cm;
+    width: 740px;
+    margin-bottom: -300px;
+}
+#seccion-pasta {
+    position: absolute;
+    height: 740px;
+    width: 387.5px;
+    top: -20cm;
+    right: -2cm;
+}
+#img-sec {
+    position: relative;
+    height: 35%;
+}
+#titulo-sec {
+    position: relative;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+#p-data-sec {
+    position: relative;
+    margin: 0px;
+}
+#linea-superior {
+    margin-bottom: 1px;
+    height: 1px;
+    background-color: #7aba96;
+    border: none;
+}
+#linea-inferior {
+    margin-top: 1px;
+    height: 1px;
+    background-color: #7aba96;
+    border: none;
+}
+#seccion-galletas {
+    position: absolute;
+    height: 740px;
+    width: 387.5px;
+    top: -20cm;
+    right: -15cm;
+}
+#seccion-mijo{
+    position: absolute;
+    height: 440px;
+    width: 387.5px;
+    top: -7cm;
+    right: -2cm;
+}
+#seccion-calabacin{
+    position: absolute;
+    height: 440px;
+    width: 387.5px;
+    top: -7cm;
+    right: -15cm;
+}
+
+footer{
+
+    position:relative; 
+    bottom: 0px; width: 100%; 
+    height: 90px; 
+    background-color: rgb(29, 29, 29)
+}
+
+#img-terc {
+    position: relative;
+    height: 60%;
+}
+
+#redes-footer{
+
+    text-decoration: none; 
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#container {
+    height: 750px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:rgb(228, 228, 228);
+}
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Web | Pàgina Principal</title>
+    <link rel="icon" type="image/x-icon" href="imagenes/favicon.jpg">
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <header ">
+        <img id="img-delicias" src="imagenes/Logo-Delicias.png" alt="Imagen" ></img>
+        <nav>
+          <div align="center">
+            <hr><br>
+            <ul align="center">
+            <li><a id="texto-navegacio" href="index.html" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>INICIO</b> &nbsp;</a></li>
+            <li><a id="texto-navegacio" href="http://" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>SOBRE MI </b>&nbsp;</a></li>
+            <li><a id="texto-navegacio" href="listado/listado.html" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>RECETAS</b> &nbsp;</a></li>
+            <li><a id="texto-navegacio" href="contacto/contacto.html" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>CONTACTO</b> &nbsp;</a></li>
+            <li><a id="texto-navegacio" href="http://" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='black'"><b>OTRAS COSAS</b> &nbsp;</a></li>
+          </ul>
+          </div> 
+            <br><hr>
+        </nav>
+    </header>
+    <main align="center">
+
+      <section id="seccion-info">
+        <h3 id="texto-sobre-mi" align="center" margin="0px"><b>Sobre mi </b></h3> 
+        <img id="img-isagil" src="imagenes/isagil.png">
+        <p id="p-bienvenido" align="left">Hola bienvenid@ a mi blog, un espacio donde quiero compartir mis recetas vegetarianas y veganas favoritas...</p> 
+      </section>
+
+        <div id="seccion-libro">
+          <section>
+            <br>
+            <h5 id="p-suscribete">Suscribete a mi blog</h5>
+            <img id="img-libro" src="imagenes/libro.png"> 
+            <p id="p-libro" align="left">Y consigue gratis mi eBook con 10 recetas exclusivas con superalimentos</p> 
+          </section>
+          <section id="seccion-apuntame" align="center"><p><b>Apúntame</b></p></section>
+        </div>
+      <section id="secciones-recetas">
+        <article id="seccion-pasta">
+          <img id="img-sec" src="imagenes/Pasta.jpg">
+          <br><br>
+          <a id="titulo-sec" href="receta/receta.html"><b>Pasta con salsa de coliflor y pimienta de Jamaica</b></a>
+          <hr id="linea-superior">
+          <p id="p-data-sec">13 marzo, 2019</p>
+          <hr id="linea-inferior">
+          <p align="left">Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales que la convierten en...</p>
+        </article>
+        <article id="seccion-galletas">
+          <img src="imagenes/galletas.jpg" id="img-sec">
+          <br><br>
+          <a href="receta/receta.html" id="titulo-sec"><b>Galletas de avena, rosa y lima</b></a>
+          <hr id="linea-superior">
+          <p id="p-data-sec">12 febrero, 2019</p>
+          <hr id="linea-inferior">
+          <p align="left">Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo!</p>
+        </article>
+        <article id="seccion-mijo">
+          <img src="imagenes/mijo.jpg" alt="" id="img-terc">
+          <br><br>
+          <a href="receta/receta.html" id="titulo-sec"><b>Mijo cremoso con lentejas, hortalizas y shiitake</b></a>
+          <hr id="linea-superior">
+          <p id="p-data-sec">1 febrero, 2019</p>
+          <hr id="linea-inferior">
+          <p align="left">Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil!</p>
+        </article>
+        <article id="seccion-calabacin">
+          <img src="imagenes/calabacines.jpg" alt="" id="img-terc">
+          <br><br>
+          <a href="receta/receta.html" id="titulo-sec"><b>Calabacines rellenos de arroz negro y calabaza</b></a>
+          <hr id="linea-superior">
+          <p id="p-data-sec">18 diciembre, 2018</p>
+          <hr id="linea-inferior">
+          <p align="left">Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy, son la última receta que publico en el blog en...</p>
+        </article>
+        
+    </main>
+    <footer align="center" >
+      <br><br>
+      <a href="http://" id="redes-footer" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">FACEBOOK &nbsp;</a>
+      <a href="http://" id="redes-footer" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">TWITTER &nbsp;</a>
+      <a href="http://" id="redes-footer" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">INSTAGRAM &nbsp;</a>
+      <a href="http://" id="redes-footer" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">PINTEREST &nbsp;</a>
+      <a href="http://" id="redes-footer" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">EMAIL &nbsp;</a>
+      <a href="http://" id="redes-footer" onmouseover="this.style.color='#7aba96'" onmouseout="this.style.color='white'">RSS &nbsp;</a>
+    </footer>
+</body>
+</html>
