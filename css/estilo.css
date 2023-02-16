@@ -3,16 +3,38 @@ body {
      margin: 0px;
 }
 header {
+    position: relative;
     margin: 15px;
 }
+li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+nav {
+    background-color: rgb(231, 231, 231);
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+nav ul li a:hover {
+    color: #7aba96;
+    
+}
+nav a{
+    text-decoration: none;
+     color: black;
+}
+
 #img-delicias {
     display:block;
      margin:auto;
 }
-#texto-navegacio{
-    text-decoration: none;
-     color: black;
-}
+
 main{
     height: 26cm;
     width: 80%;
@@ -151,4 +173,7 @@ footer{
 
     text-decoration: none; 
     color: rgb(255, 255, 255);
+}
+#redes-footer:hover {
+    color: #7aba96;
 }
