@@ -18,6 +18,7 @@ li {
 }
 nav {
     background-color: rgb(231, 231, 231);
+    margin-bottom: 2cm;
 }
 nav ul {
     padding: 0;
@@ -35,14 +36,28 @@ nav a{
 }
 main {
     height: auto;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#container-1 {
+    position: relative;
+    height: auto;
+    background-color:rgb(228, 228, 228);
+
 }
 #container {
+    position: relative;
     height: auto;
     background-color:rgb(228, 228, 228);
     margin: 0 auto;
     margin-top: 2cm;
+}
+
+#title-container {
+    position: relative;
+    margin: 0;
+    margin-top: 20px;
+
 }
 
 #redes-footer{
