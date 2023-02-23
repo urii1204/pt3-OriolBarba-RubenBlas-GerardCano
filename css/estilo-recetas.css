@@ -67,6 +67,35 @@ p {
     margin-right: 50px;
 }
 
+hr {
+    margin: 0px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h2 {
+    margin-left: 50px;
+}
+#receta-container {
+    overflow: hidden;
+}
+
+#img-receta{
+    margin-left: 50px;
+    height: 200px;
+    width: 300px;
+    float: left;
+    
+}
+#p-receta {
+    position: relative;
+    margin: 0px;
+    margin-right: 50px;
+    margin-left: 370px;
+    
+    
+}
+
 #redes-footer{
 
     text-decoration: none; 
