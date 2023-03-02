@@ -198,13 +198,13 @@ footer{
     height: 280px;
     width: 520px;
     transform: rotate(5deg);
-    filter: brightness(50%);
+    filter: brightness(70%);
 }
 #img-abajo:hover {
     height: 280px;
     width: 520px;
     transform: rotate(5deg);
-    filter: brightness(50%);
+    filter: brightness(70%);
 }
 
 
