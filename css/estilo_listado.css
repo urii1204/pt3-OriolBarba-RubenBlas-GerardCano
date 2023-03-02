@@ -50,7 +50,6 @@ nav a{
 
 main{
     height: 26cm;
-    width: 80%;
     margin-left: 15%;
     margin-right: 15%;
     position: relative;
@@ -115,6 +114,9 @@ main{
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
+#titulo-seccion:hover {
+    color: #7aba96;
+}
 #p-data-seccion {
     position: relative;
     margin: 0px;
@@ -132,34 +134,33 @@ main{
     border: none;
 }
 #seccion-pasta {
-    position: relative;
-    height: 740px;
-    width: 387.5px;
-
-    right: -5cm;
+    position: absolute;
+    height: 440px;
+    width: 500px;
+    right: 2cm;
     float: left;
 }
-#seccion-galletas {
-    position: relative;
-    height: 740px;
-    width: 387.5px;
-    right: 10cm;
+#seccion-carne {
+    position: absolute;
+    height: 440px;
+    width: 500px;
+    right: 20.5cm;
     float: right;
 }
-#seccion-mijo{
+#seccion-pescado{
     position: absolute;
     height: 440px;
-    width: 387.5px;
-    right: 23.5cm;
-    top: 15cm;
+    width: 500px;
+    right: 20.5cm;
+    top: 13cm;
     
 }
-#seccion-calabacines{
+#seccion-postres{
     position: absolute;
     height: 440px;
-    width: 387.5px;
-    top: 15cm;
-    right: 10cm;
+    width: 500px;
+    top: 13cm;
+    right: 2cm;
     float: right;
 }
 
@@ -178,11 +179,13 @@ footer{
 #img-arriba {
     position: relative;
     height: 260px;
+    width: 500px;
 }
 
 #img-abajo {
     position: relative;
     height: 260px;
+    width: 500px;
 }
 
 
