@@ -6,6 +6,20 @@ header {
     position: relative;
     margin: 15px;
 }
+#recomendaciones {
+    position: absolute;
+    top: -22cm;
+    left: 20cm;
+}
+#hr-recomendaciones {
+    position: absolute;
+    top: -21.8cm;
+    left: 19.3cm;
+    width: 300px;
+    height: 50px;
+    border: 2px solid #7aba96;
+    border-radius: 5px;
+}
 li {
     list-style: none;
     padding: 0px;
@@ -139,14 +153,14 @@ main{
     position: absolute;
     height: 440px;
     width: 387.5px;
-    top: -7cm;
+    top: -8cm;
     right: -2cm;
 }
 #seccion-calabacines{
     position: absolute;
     height: 440px;
     width: 387.5px;
-    top: -7cm;
+    top: -8cm;
     right: -15cm;
 }
 
