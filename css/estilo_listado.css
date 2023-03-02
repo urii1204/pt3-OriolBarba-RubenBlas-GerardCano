@@ -114,9 +114,7 @@ main{
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
-#titulo-seccion:hover {
-    color: #7aba96;
-}
+
 #p-data-seccion {
     position: relative;
     margin: 0px;
