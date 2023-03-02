@@ -9,16 +9,20 @@ header {
 #recomendaciones {
     position: absolute;
     top: -22cm;
-    left: 20cm;
+    left: 19.5cm;
 }
 #hr-recomendaciones {
     position: absolute;
     top: -21.8cm;
-    left: 19.3cm;
+    left: 18.8cm;
     width: 300px;
     height: 50px;
     border: 2px solid #7aba96;
     border-radius: 5px;
+    
+}
+#hr-recomendaciones:hover {
+    border: 3px solid #63997a;
 }
 li {
     list-style: none;
@@ -117,7 +121,7 @@ main{
     position: absolute;
     height: 740px;
     width: 387.5px;
-    top: -20cm;
+    top: -19.5cm;
     right: -2cm;
 }
 
@@ -125,6 +129,9 @@ main{
     position: relative;
     text-decoration: none;
     color: rgb(0, 0, 0);
+}
+#titulo-seccion:hover {
+    color: #7aba96;
 }
 #p-data-seccion {
     position: relative;
@@ -146,7 +153,7 @@ main{
     position: absolute;
     height: 740px;
     width: 387.5px;
-    top: -20cm;
+    top: -19.5cm;
     right: -15cm;
 }
 #seccion-mijo{
