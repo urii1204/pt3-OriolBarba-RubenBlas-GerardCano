@@ -1,0 +1,73 @@
+body {
+    font-family: gill sans,sans-serif;
+     margin: 0px;
+}
+header {
+    position: relative;
+    margin: 15px;
+}
+main {
+    margin-left: 15%;
+    margin-right: 20%;
+}
+li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+nav {
+    background-color: rgb(231, 231, 231);
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+nav ul li a:hover {
+    color: #7aba96;
+    
+}
+nav a{
+    text-decoration: none;
+     color: black;
+}
+#img-delicias {
+    display:block;
+     margin:auto;
+}
+
+footer{
+
+    position:relative; 
+    bottom: 0px; width: 100%; 
+    height: 90px; 
+    background-color: rgb(29, 29, 29)
+}
+#redes-footer{
+
+    text-decoration: none; 
+    color: rgb(255, 255, 255);
+}
+#redes-footer:hover {
+    color: #7aba96;
+}
+#img-1 {
+    width: 500px;
+    height: 400px;
+}
+#p-img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#img-2 {
+    width: 400px;
+    height: 300px;
+}
+#img-3 {
+    width: 400px;
+    height: 300px;
+    margin-left: 50px;
+}
