@@ -68,6 +68,7 @@ p {
     margin-right: 50px;
 }
 
+
 hr {
     margin: 0px;
     margin-right: 50px;
@@ -79,6 +80,23 @@ h2 {
 }
 #receta-container {
     overflow: hidden;
+}
+#boton {
+    width: 150px;
+    display: inline-block;
+    border: 1px solid rgb(57, 57, 57);
+    margin: 20px;
+    text-align: center;
+    padding: 20px 0px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #7aba96;
+    transition: background-color 0.5s;
+}
+#boton:hover{
+    background-color: #669e7f;
 }
 
 #img-receta{
