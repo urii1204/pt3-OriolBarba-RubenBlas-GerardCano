@@ -1,6 +1,7 @@
 body {
     font-family: gill sans,sans-serif;
      margin: 0px;
+     background-color:antiquewhite;
 }
 header {
     position: relative;
@@ -17,7 +18,7 @@ li {
     display: inline;
 }
 nav {
-    background-color: rgb(231, 231, 231);
+    background-color:rgb(205, 192, 176);
 }
 nav ul {
     padding: 0;
@@ -70,4 +71,8 @@ footer{
     width: 400px;
     height: 300px;
     margin-left: 50px;
+}
+#img-4 {
+    width: 400px;
+    height: 300px;
 }
