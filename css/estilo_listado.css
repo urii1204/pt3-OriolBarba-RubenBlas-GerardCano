@@ -2,6 +2,16 @@ body {
     font-family: gill sans,sans-serif;
      margin: 0px;
 }
+#img-delicias {
+    display:block;
+     margin:auto;
+     width: 375px;
+     height: 111px;
+}
+#img-delicias:hover {
+    width: 385px;
+    height: 121px;
+}
 header {
     position: relative;
     margin: 15px;
@@ -43,10 +53,7 @@ nav a{
      color: black;
 }
 
-#img-delicias {
-    display:block;
-     margin:auto;
-}
+
 
 main{
     height: 26cm;
@@ -191,11 +198,13 @@ footer{
     height: 280px;
     width: 520px;
     transform: rotate(5deg);
+    filter: brightness(50%);
 }
 #img-abajo:hover {
     height: 280px;
     width: 520px;
     transform: rotate(5deg);
+    filter: brightness(50%);
 }
 
 
