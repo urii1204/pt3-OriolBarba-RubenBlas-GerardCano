@@ -25,6 +25,19 @@ nav ul li a:hover {
     color: #7aba96;
     
 }
+#texto-navegacio {
+    position:relative; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+#texto-navegacio:hover {
+    color: #7aba96;
+}
 nav a{
     text-decoration: none;
      color: black;
@@ -134,18 +147,18 @@ main{
     float: right;
 }
 #seccion-mijo{
-    position: relative;
-    height: 740px;
+    position: absolute;
+    height: 440px;
     width: 387.5px;
-    right: -5cm;
-    top: -5cm;
+    right: 23.5cm;
+    top: 15cm;
     
 }
 #seccion-calabacines{
-    position: relative;
+    position: absolute;
     height: 440px;
     width: 387.5px;
-    top: -5cm;
+    top: 15cm;
     right: 10cm;
     float: right;
 }
