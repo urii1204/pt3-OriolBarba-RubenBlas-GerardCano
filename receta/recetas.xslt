@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="/css/estiloXML.css" type="text/css" ?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" encoding="UTF-8" indent="yes"/>
   
@@ -11,7 +10,7 @@
       </head>
       <body>
 
-        <xsl:apply-templates select="recetas/receta[1]"/>
+        <xsl:apply-templates select="recetas/receta"/>
       </body>
     </html>
   </xsl:template>
