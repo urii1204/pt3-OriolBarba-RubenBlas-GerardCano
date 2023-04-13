@@ -1,30 +1,28 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
-
 <receta>
-        <titulo>Alubias con chorizo</titulo>
+        <titulo>Patatas a la riojana</titulo>
         <fecha>11 de octubre de 2017</fecha>
-        <introduccion>
-            Si te apetece una receta reconfortante y deliciosa, no dudes en probar estas alubias con chorizo. Es un plato típico de la gastronomía española que se suele servir como plato único en días fríos de invierno.
-        </introduccion>
+        <introduccion>Las patatas a la riojana es un plato típico de la cocina española, originario de la región de La Rioja. Es un guiso de patatas con chorizo y pimiento que se suele tomar como plato principal.</introduccion>
         <ingredientes>
-            <ingrediente>500 gramos de alubias blancas</ingrediente>
-            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>1 kg de patatas</ingrediente>
+            <ingrediente>2 chorizos</ingrediente>
+            <ingrediente>1 pimiento rojo</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
             <ingrediente>2 dientes de ajo</ingrediente>
-            <ingrediente>1 pimiento verde</ingrediente>
-            <ingrediente>1 tomate maduro</ingrediente>
-            <ingrediente>100 gramos de chorizo</ingrediente>
-            <ingrediente>1 hoja de laurel</ingrediente>
-            <ingrediente>Aceite de oliva virgen extra</ingrediente>
-            <ingrediente>Sal</ingrediente>
-            <ingrediente>Pimentón dulce</ingrediente>
+            <ingrediente>1 cucharadita de pimentón dulce</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+            <ingrediente>Aceite de oliva</ingrediente>
             <ingrediente>Agua</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>1. En primer lugar, ponemos las alubias en remojo durante toda la noche.</p>
-            <p>2. Al día siguiente, pelamos y picamos finamente la cebolla, el ajo y el pimiento verde. En una cazuela con aceite de oliva, sofreímos estas verduras a fuego medio hasta que estén doradas.</p>
-            <p>3. Añadimos el chorizo cortado en rodajas y lo doramos durante unos minutos.</p>
-            <p>4. Agregamos el tomate pelado y picado y la hoja de laurel. Cocinamos a fuego lento durante unos minutos hasta que el tomate se haya deshecho.</p>
-            <p>5. Añadimos las alubias escurridas y cubrimos con agua. Añadimos una pizca de sal y una cucharadita de pimentón dulce. Removemos bien y dejamos cocinar a fuego lento durante unas dos horas.</p>
-            <p>6. Removemos de vez en cuando y añadimos más agua si fuera necesario. Cuando las alubias estén tiernas, apagamos el fuego y dejamos reposar unos minutos antes de servir.</p>
+            <p>1. Pelar y cortar las patatas en trozos medianos.</p>
+            <p>2. Cortar el chorizo y el pimiento en trozos pequeños.</p>
+            <p>3. Picar la cebolla y los dientes de ajo.</p>
+            <p>4. En una olla grande, calentar un poco de aceite de oliva y añadir la cebolla y los ajos picados. Sofreír hasta que estén dorados.</p>
+            <p>5. Añadir el chorizo y el pimiento y continuar sofriendo durante unos minutos más.</p>
+            <p>6. Añadir el pimentón dulce y mezclar bien.</p>
+            <p>7. Añadir las patatas y cubrirlas con agua. Añadir sal y pimienta al gusto.</p>
+            <p>8. Cocinar a fuego medio-bajo durante unos 45 minutos, hasta que las patatas estén tiernas y el guiso tenga la consistencia deseada.</p>
+            <p>9. Servir caliente.</p>
         </preparacion>
-</receta>
+    </receta>

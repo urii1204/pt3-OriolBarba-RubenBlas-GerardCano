@@ -1,31 +1,35 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Cheesecake de frutos rojos</titulo>
-        <fecha>11 de octubre de 2017</fecha>
-        <introduccion>Este postre es una deliciosa combinación de queso crema y frutos rojos sobre una base de galletas. Es perfecto para compartir en cualquier ocasión especial.</introduccion>
-        <ingredientes>
-            <ingrediente>Para la base:
-                <ul>
-                    <li>200 g de galletas de vainilla</li>
-                    <li>100 g de mantequilla derretida</li>
-                </ul>
-            </ingrediente>
-            <ingrediente>Para el relleno:
-                <ul>
-                    <li>500 g de queso crema</li>
-                    <li>200 g de azúcar</li>
-                    <li>4 huevos</li>
-                    <li>1 cucharadita de esencia de vainilla</li>
-                    <li>200 g de frutos rojos (fresas, frambuesas, moras, arándanos)</li>
-                </ul>
-            </ingrediente>
-        </ingredientes>
-        <preparacion>
-            <p>1. Precalentar el horno a 180°C.</p>
-            <p>2. Triturar las galletas y mezclarlas con la mantequilla derretida. Forrar el fondo de un molde desmontable con esta mezcla y presionar con una cuchara para que quede compacta. Reservar en la nevera durante 15 minutos.</p>
-            <p>3. En un bol, batir el queso crema con el azúcar hasta que esté cremoso. Añadir los huevos uno a uno, sin dejar de batir. Agregar la esencia de vainilla y mezclar bien.</p>
-            <p>4. Verter la mezcla sobre la base de galletas y alisar la superficie con una espátula. Colocar los frutos rojos sobre la mezcla, presionando ligeramente para que se hundan un poco.</p>
-            <p>5. Hornear durante 40-45 minutos o hasta que la superficie esté dorada y el centro esté firme al tacto.</p>
-            <p>6. Retirar del horno y dejar enfriar a temperatura ambiente. Refrigerar durante al menos 2 horas antes de servir.</p>
-        </preparacion>
+  <titulo>Pastel de zanahoria</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>
+    El pastel de zanahoria es un postre delicioso y nutritivo que suele ser un éxito en cualquier ocasión. Su textura suave y su sabor a especias lo hacen irresistible para los amantes del dulce. A continuación, te presentamos la receta para que puedas prepararlo en casa.
+  </introduccion>
+  <ingredientes>
+    <ingrediente>3 zanahorias grandes</ingrediente>
+    <ingrediente>2 tazas de harina de trigo</ingrediente>
+    <ingrediente>1 cucharada de polvo para hornear</ingrediente>
+    <ingrediente>1/2 cucharada de bicarbonato de sodio</ingrediente>
+    <ingrediente>1/2 cucharada de canela molida</ingrediente>
+    <ingrediente>1/2 cucharada de jengibre molido</ingrediente>
+    <ingrediente>1/4 cucharada de nuez moscada</ingrediente>
+    <ingrediente>1/4 cucharada de sal</ingrediente>
+    <ingrediente>1 taza de azúcar</ingrediente>
+    <ingrediente>3 huevos</ingrediente>
+    <ingrediente>1 taza de aceite vegetal</ingrediente>
+    <ingrediente>1 cucharada de extracto de vainilla</ingrediente>
+    <ingrediente>1/2 taza de nueces picadas (opcional)</ingrediente>
+    <ingrediente>1/2 taza de pasas (opcional)</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Precalentar el horno a 180°C.</p>
+    <p>2. Pelar y rallar las zanahorias. Reservar.</p>
+    <p>3. En un tazón, mezclar la harina, el polvo para hornear, el bicarbonato, la canela, el jengibre, la nuez moscada y la sal.</p>
+    <p>4. En otro tazón, batir el azúcar, los huevos, el aceite y el extracto de vainilla hasta obtener una mezcla homogénea.</p>
+    <p>5. Agregar la mezcla de harina a la mezcla de huevo y mezclar bien.</p>
+    <p>6. Agregar las zanahorias ralladas, las nueces picadas y las pasas (si se desea) y mezclar bien.</p>
+    <p>7. Verter la mezcla en un molde para pastel previamente engrasado.</p>
+    <p>8. Hornear durante 35-40 minutos o hasta que al introducir un palillo en el centro, este salga limpio.</p>
+    <p>9. Dejar enfriar el pastel antes de servir.</p>
+  </preparacion>
 </receta>

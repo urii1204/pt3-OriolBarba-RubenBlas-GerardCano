@@ -1,24 +1,28 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
+
+
 <receta>
-        <titulo>Flan de huevo</titulo>
-        <fecha>11 de octubre de 2017</fecha>
-        <introduccion>Este postre es una deliciosa opción para cualquier ocasión, suave y cremoso.</introduccion>
+        <titulo>Brochetas de camarón y piña</titulo>
+        <fecha>13 de abril de 2023</fecha>
+        <introduccion>
+            Si estás buscando una cena saludable y fácil de hacer, estas brochetas de camarón y piña son una excelente opción. Con una combinación dulce y salada, son perfectas para una cena de verano en el patio trasero o para una comida rápida durante la semana. ¡Vamos a cocinar!
+        </introduccion>
         <ingredientes>
-            <ingrediente>6 huevos</ingrediente>
-            <ingrediente>1 lata de leche condensada</ingrediente>
-            <ingrediente>1 lata de leche evaporada</ingrediente>
-            <ingrediente>1 taza de azúcar</ingrediente>
-            <ingrediente>1 cucharadita de esencia de vainilla</ingrediente>
+            <ingrediente>12 camarones grandes</ingrediente>
+            <ingrediente>1 piña mediana</ingrediente>
+            <ingrediente>1/4 taza de aceite de oliva</ingrediente>
+            <ingrediente>2 cucharadas de salsa de soja</ingrediente>
+            <ingrediente>2 cucharadas de miel</ingrediente>
+            <ingrediente>1 cucharadita de ajo picado</ingrediente>
+            <ingrediente>Palillos para brochetas</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>1. Precalentar el horno a 180°C.</p>
-            <p>2. En una olla, poner el azúcar y dejar que se derrita hasta formar un caramelo dorado.</p>
-            <p>3. Verter el caramelo en un molde para flan y extenderlo por toda la superficie del molde.</p>
-            <p>4. Batir los huevos en un tazón hasta que estén bien mezclados.</p>
-            <p>5. Agregar la leche condensada, la leche evaporada y la esencia de vainilla, y mezclar bien.</p>
-            <p>6. Verter la mezcla en el molde con el caramelo.</p>
-            <p>7. Llevar al horno a baño maría durante 50 minutos o hasta que el flan esté firme.</p>
-            <p>8. Dejar enfriar y desmoldar.</p>
-            <p>9. Servir frío.</p>
+            <p>1. Precalentar la parrilla o asador a fuego medio-alto.</p>
+            <p>2. Pelar y desvenar los camarones. Cortar la piña en trozos del tamaño de los camarones.</p>
+            <p>3. En un tazón pequeño, mezclar el aceite de oliva, la salsa de soja, la miel y el ajo picado.</p>
+            <p>4. Insertar los camarones y la piña en los palillos para brochetas, alternando entre los dos.</p>
+            <p>5. Con un cepillo de cocina, cepillar la mezcla de aceite de oliva y miel sobre las brochetas.</p>
+            <p>6. Colocar las brochetas en la parrilla o asador y cocinar durante 2-3 minutos por lado, hasta que los camarones estén rosados y la piña esté dorada.</p>
+            <p>7. Servir caliente y disfrutar.</p>
         </preparacion>
 </receta>

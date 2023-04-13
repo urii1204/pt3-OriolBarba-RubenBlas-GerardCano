@@ -1,23 +1,23 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Crema catalana</titulo>
+        <titulo>Helado de vainilla</titulo>
         <fecha>11 de octubre de 2017</fecha>
-        <introduccion>La crema catalana es un postre típico de la gastronomía catalana, similar a la crème brûlée francesa. Se elabora con leche, yema de huevo, azúcar y maicena, y se caracteriza por una capa de azúcar caramelizado en la parte superior.</introduccion>
+        <introduccion>El helado de vainilla es un clásico del verano, perfecto para acompañar postres o simplemente disfrutar solo. Aprende a prepararlo en casa con esta sencilla receta.</introduccion>
         <ingredientes>
-            <ingrediente>1 litro de leche</ingrediente>
-            <ingrediente>8 yemas de huevo</ingrediente>
-            <ingrediente>150 gramos de azúcar</ingrediente>
-            <ingrediente>40 gramos de maicena</ingrediente>
-            <ingrediente>1 rama de canela</ingrediente>
-            <ingrediente>La piel de un limón</ingrediente>
-            <ingrediente>Azúcar para caramelizar</ingrediente>
+            <ingrediente>2 tazas de crema de leche</ingrediente>
+            <ingrediente>1 taza de leche entera</ingrediente>
+            <ingrediente>1 taza de azúcar</ingrediente>
+            <ingrediente>1 cucharada de extracto de vainilla</ingrediente>
+            <ingrediente>6 yemas de huevo</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>1. En una olla, colocar la leche a calentar junto con la canela y la piel de limón.</p>
-            <p>2. En un bol, batir las yemas de huevo con el azúcar y la maicena.</p>
-            <p>3. Cuando la leche empiece a hervir, retirar la canela y la piel de limón y añadir la mezcla de yemas de huevo y azúcar.</p>
-            <p>4. Cocinar a fuego medio, removiendo constantemente, hasta que la crema espese.</p>
-            <p>5. Retirar del fuego y dejar enfriar. Verter la crema en moldes individuales y refrigerar por unas horas.</p>
-            <p>6. Antes de servir, espolvorear azúcar sobre la superficie de la crema y caramelizar con un soplete o con la ayuda de un quemador.</p>
+            <p>En una olla mediana, mezcla la crema de leche, la leche y el azúcar a fuego medio-bajo. Revuelve hasta que el azúcar se disuelva completamente.</p>
+            <p>Retira la olla del fuego y añade el extracto de vainilla.</p>
+            <p>En un tazón grande, bate las yemas de huevo hasta que estén espumosas y ligeramente amarillas.</p>
+            <p>Añade la mezcla de crema de leche y leche a las yemas de huevo, poco a poco, batiendo constantemente para evitar que las yemas se cocinen.</p>
+            <p>Vuelve a poner la mezcla en la olla y cocina a fuego medio-bajo, revolviendo constantemente, hasta que espese lo suficiente como para cubrir la parte posterior de una cuchara (unos 10 minutos).</p>
+            <p>Retira del fuego y deja enfriar a temperatura ambiente.</p>
+            <p>Vierte la mezcla en una máquina para hacer helados y sigue las instrucciones del fabricante para terminar de hacer el helado. Si no tienes una máquina, vierte la mezcla en un recipiente y colócalo en el congelador. Remueve la mezcla cada 30 minutos hasta que tenga la consistencia deseada.</p>
+            <p>Sirve y disfruta tu helado de vainilla casero.</p>
         </preparacion>
 </receta>

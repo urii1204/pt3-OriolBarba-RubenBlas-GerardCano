@@ -1,21 +1,27 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Fettuccine Alfredo</titulo>
-        <fecha>11 de octubre de 2017</fecha>
-        <introduccion>Esta es una receta clásica italiana, muy fácil de hacer y deliciosa. La salsa cremosa de queso parmesano es el ingrediente estrella de este plato, que puedes servir como plato principal o como acompañamiento.</introduccion>
-        <ingredientes>
-            <ingrediente>400 gramos de fettuccine</ingrediente>
-            <ingrediente>1 taza de crema de leche</ingrediente>
-            <ingrediente>1 taza de queso parmesano rallado</ingrediente>
-            <ingrediente>1/2 taza de mantequilla</ingrediente>
-            <ingrediente>1 diente de ajo picado</ingrediente>
-            <ingrediente>Sal y pimienta al gusto</ingrediente>
-        </ingredientes>
-        <preparacion>
-            <p>Cocina la pasta en una olla con agua hirviendo y sal durante unos 10 minutos o hasta que esté al dente. Escurre y reserva.</p>
-            <p>Mientras tanto, en una sartén grande, derrite la mantequilla a fuego medio. Agrega el ajo picado y cocina por un minuto hasta que esté fragante.</p>
-            <p>Añade la crema de leche a la sartén y cocina hasta que se caliente, revolviendo constantemente. Agrega el queso parmesano rallado y sigue revolviendo hasta que se derrita y la salsa esté suave y cremosa.</p>
-            <p>Sazona con sal y pimienta al gusto.</p>
-            <p>Mezcla la salsa con la pasta y sirve caliente.</p>
-        </preparacion>
+  <titulo>Pasta con salsa de coliflor y pimienta de jamaica</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>
+    Una receta vegetariana y saludable de pasta con salsa cremosa de coliflor y un toque de pimienta de jamaica para darle un sabor único.
+  </introduccion>
+  <ingredientes>
+    <ingrediente>400 gramos de pasta</ingrediente>
+    <ingrediente>1 coliflor grande</ingrediente>
+    <ingrediente>1 cebolla picada</ingrediente>
+    <ingrediente>2 dientes de ajo picados</ingrediente>
+    <ingrediente>1 cucharada de aceite de oliva</ingrediente>
+    <ingrediente>2 tazas de caldo de verduras</ingrediente>
+    <ingrediente>1 cucharadita de pimienta de jamaica</ingrediente>
+    <ingrediente>Sal y pimienta al gusto</ingrediente>
+    <ingrediente>Queso parmesano rallado para servir (opcional)</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>Cocer la pasta según las instrucciones del paquete.</p>
+    <p>Cortar la coliflor en floretes y cocerla en agua con sal durante unos 10-15 minutos hasta que esté tierna. Escurrir y reservar.</p>
+    <p>En una sartén grande, calentar el aceite de oliva y saltear la cebolla y el ajo hasta que estén dorados.</p>
+    <p>Añadir la coliflor y el caldo de verduras a la sartén y cocer a fuego medio durante unos 5 minutos.</p>
+    <p>Retirar la sartén del fuego y añadir la pimienta de jamaica. Triturar la salsa con una batidora de mano hasta que quede suave y cremosa.</p>
+    <p>Servir la pasta caliente con la salsa de coliflor por encima. Añadir queso parmesano rallado al gusto si se desea.</p>
+  </preparacion>
 </receta>

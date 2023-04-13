@@ -1,23 +1,26 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Helado de vainilla</titulo>
+        <titulo>Tarta de manzana</titulo>
         <fecha>11 de octubre de 2017</fecha>
-        <introduccion>El helado de vainilla es un clásico del verano, perfecto para acompañar postres o simplemente disfrutar solo. Aprende a prepararlo en casa con esta sencilla receta.</introduccion>
+        <introduccion>
+            La tarta de manzana es uno de los postres más clásicos y deliciosos que existen. Con esta receta, podrás preparar una tarta de manzana deliciosa y fácil de hacer en casa.
+        </introduccion>
         <ingredientes>
-            <ingrediente>2 tazas de crema de leche</ingrediente>
-            <ingrediente>1 taza de leche entera</ingrediente>
-            <ingrediente>1 taza de azúcar</ingrediente>
-            <ingrediente>1 cucharada de extracto de vainilla</ingrediente>
-            <ingrediente>6 yemas de huevo</ingrediente>
+            <ingrediente>1 lámina de masa brisa</ingrediente>
+            <ingrediente>5 manzanas Granny Smith</ingrediente>
+            <ingrediente>1/2 taza de azúcar</ingrediente>
+            <ingrediente>1/2 taza de harina</ingrediente>
+            <ingrediente>2 cucharaditas de canela</ingrediente>
+            <ingrediente>1/4 cucharadita de nuez moscada</ingrediente>
+            <ingrediente>1/4 cucharadita de sal</ingrediente>
+            <ingrediente>1/2 taza de mantequilla fría</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>En una olla mediana, mezcla la crema de leche, la leche y el azúcar a fuego medio-bajo. Revuelve hasta que el azúcar se disuelva completamente.</p>
-            <p>Retira la olla del fuego y añade el extracto de vainilla.</p>
-            <p>En un tazón grande, bate las yemas de huevo hasta que estén espumosas y ligeramente amarillas.</p>
-            <p>Añade la mezcla de crema de leche y leche a las yemas de huevo, poco a poco, batiendo constantemente para evitar que las yemas se cocinen.</p>
-            <p>Vuelve a poner la mezcla en la olla y cocina a fuego medio-bajo, revolviendo constantemente, hasta que espese lo suficiente como para cubrir la parte posterior de una cuchara (unos 10 minutos).</p>
-            <p>Retira del fuego y deja enfriar a temperatura ambiente.</p>
-            <p>Vierte la mezcla en una máquina para hacer helados y sigue las instrucciones del fabricante para terminar de hacer el helado. Si no tienes una máquina, vierte la mezcla en un recipiente y colócalo en el congelador. Remueve la mezcla cada 30 minutos hasta que tenga la consistencia deseada.</p>
-            <p>Sirve y disfruta tu helado de vainilla casero.</p>
+            <p>Paso 1: Precalentar el horno a 180°C.</p>
+            <p>Paso 2: Pelar y cortar las manzanas en rodajas finas. Mezclar las manzanas con el azúcar, la harina, la canela, la nuez moscada y la sal.</p>
+            <p>Paso 3: Colocar la lámina de masa brisa en un molde para tarta y recortar el exceso de masa.</p>
+            <p>Paso 4: Colocar la mezcla de manzanas sobre la masa brisa y distribuir la mantequilla fría en trozos pequeños por encima.</p>
+            <p>Paso 5: Hornear la tarta de manzana durante 45 minutos o hasta que la masa esté dorada y las manzanas estén tiernas.</p>
+            <p>Paso 6: Dejar enfriar antes de servir.</p>
         </preparacion>
 </receta>

@@ -1,21 +1,30 @@
-
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
+
 <receta>
-  <titulo>Bistec a la parrilla</titulo>
-  <fecha>13 de abril de 2023</fecha>
-  <introduccion>
-    Una receta clásica para hacer un delicioso bistec a la parrilla. Perfecto para una comida o cena.
-  </introduccion>
-  <ingredientes>
-    <ingrediente>Bistec de carne (200g por persona)</ingrediente>
-    <ingrediente>Sal y pimienta al gusto</ingrediente>
-    <ingrediente>Aceite de oliva</ingrediente>
-  </ingredientes>
-  <preparacion>
-    <paso>1. Precalentar la parrilla a fuego alto.</paso>
-    <paso>2. Sazonar los bistecs con sal y pimienta al gusto.</paso>
-    <paso>3. Pincelar los bistecs con aceite de oliva por ambos lados.</paso>
-    <paso>4. Colocar los bistecs en la parrilla caliente y cocinar durante 3-4 minutos por cada lado, dependiendo del grosor de los bistecs y del punto de cocción deseado.</paso>
-    <paso>5. Retirar los bistecs de la parrilla y dejar reposar durante 5 minutos antes de cortarlos y servirlos.</paso>
-  </preparacion>
-</receta>
+    <titulo>Pollo al curry</titulo>
+    <fecha>13 de abril de 2023</fecha>
+    <introduccion>
+      Una deliciosa receta de pollo al curry que te llevará directamente a la India.
+    </introduccion>
+    <ingredientes>
+      <ingrediente>4 pechugas de pollo</ingrediente>
+      <ingrediente>1 cebolla</ingrediente>
+      <ingrediente>2 dientes de ajo</ingrediente>
+      <ingrediente>1 cucharada de jengibre fresco rallado</ingrediente>
+      <ingrediente>1 cucharada de curry en polvo</ingrediente>
+      <ingrediente>1 taza de leche de coco</ingrediente>
+      <ingrediente>1/2 taza de caldo de pollo</ingrediente>
+      <ingrediente>Aceite de oliva</ingrediente>
+      <ingrediente>Sal y pimienta</ingrediente>
+    </ingredientes>
+    <preparacion>
+      <paso>Cortar las pechugas de pollo en cubos.</paso>
+      <paso>Pelar y picar la cebolla y los ajos.</paso>
+      <paso>En una sartén grande, calentar un poco de aceite de oliva y dorar el pollo.</paso>
+      <paso>Agregar la cebolla y el ajo y saltear hasta que estén dorados.</paso>
+      <paso>Añadir el jengibre rallado y el curry en polvo y cocinar durante unos minutos hasta que estén fragantes.</paso>
+      <paso>Agregar la leche de coco y el caldo de pollo y mezclar bien.</paso>
+      <paso>Dejar cocinar a fuego lento durante unos 15-20 minutos o hasta que el pollo esté bien cocido.</paso>
+      <paso>Servir caliente con arroz blanco.</paso>
+    </preparacion>
+  </receta>

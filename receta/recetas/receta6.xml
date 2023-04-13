@@ -1,33 +1,21 @@
+
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Carne guisada</titulo>
-        <fecha>11 de octubre de 2017</fecha>
-        <introduccion>
-            Una deliciosa y reconfortante receta de carne guisada perfecta para los días fríos de invierno.
-        </introduccion>
-        <ingredientes>
-            <ingrediente>1 kg de carne de ternera para guisar</ingrediente>
-            <ingrediente>2 cebollas grandes</ingrediente>
-            <ingrediente>3 dientes de ajo</ingrediente>
-            <ingrediente>2 zanahorias grandes</ingrediente>
-            <ingrediente>2 hojas de laurel</ingrediente>
-            <ingrediente>1 ramita de tomillo fresco</ingrediente>
-            <ingrediente>1 ramita de romero fresco</ingrediente>
-            <ingrediente>1 cucharada de pimentón dulce</ingrediente>
-            <ingrediente>1 cucharada de harina</ingrediente>
-            <ingrediente>750 ml de caldo de carne</ingrediente>
-            <ingrediente>Aceite de oliva</ingrediente>
-            <ingrediente>Sal y pimienta al gusto</ingrediente>
-        </ingredientes>
-        <preparacion>
-                1. Cortar la carne en cubos de aproximadamente 2 cm y salpimentar al gusto.
-                2. Pelar y picar las cebollas y los ajos. Pelar y cortar las zanahorias en rodajas.
-                3. En una cazuela grande, calentar un poco de aceite de oliva y dorar la carne a fuego alto hasta que esté dorada por todos lados. Retirar la carne de la cazuela y reservar.
-                4. En la misma cazuela, añadir un poco más de aceite si es necesario y sofreír la cebolla y el ajo a fuego medio hasta que estén dorados. Agregar las zanahorias y cocinar por unos minutos más.
-
-                5. Agregar la cucharada de harina y el pimentón dulce y mezclar bien. Cocinar por un minuto más.
-                6. Añadir la carne de nuevo a la cazuela junto con las hojas de laurel, la ramita de tomillo y la ramita de romero. Agregar suficiente caldo de carne para cubrir la carne y mezclar bien. Llevar a ebullición y reducir el fuego a bajo. Tapar la cazuela y cocinar a fuego lento durante al menos 1 hora y media o hasta que la carne esté tierna.
-                7. Si la salsa está demasiado líquida, retirar la tapa y cocinar a fuego lento durante unos minutos más hasta que la salsa se espese. Si está demasiado espesa, añadir un poco más de caldo de carne.
-                8. Servir caliente acompañado de patatas o arroz.
-        </preparacion>
+  <titulo>Bistec a la parrilla</titulo>
+  <fecha>13 de abril de 2023</fecha>
+  <introduccion>
+    Una receta clásica para hacer un delicioso bistec a la parrilla. Perfecto para una comida o cena.
+  </introduccion>
+  <ingredientes>
+    <ingrediente>Bistec de carne (200g por persona)</ingrediente>
+    <ingrediente>Sal y pimienta al gusto</ingrediente>
+    <ingrediente>Aceite de oliva</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <paso>1. Precalentar la parrilla a fuego alto.</paso>
+    <paso>2. Sazonar los bistecs con sal y pimienta al gusto.</paso>
+    <paso>3. Pincelar los bistecs con aceite de oliva por ambos lados.</paso>
+    <paso>4. Colocar los bistecs en la parrilla caliente y cocinar durante 3-4 minutos por cada lado, dependiendo del grosor de los bistecs y del punto de cocción deseado.</paso>
+    <paso>5. Retirar los bistecs de la parrilla y dejar reposar durante 5 minutos antes de cortarlos y servirlos.</paso>
+  </preparacion>
 </receta>

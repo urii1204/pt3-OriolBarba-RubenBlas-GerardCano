@@ -1,31 +1,32 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Tacos de pescado</titulo>
+        <titulo>Cazuela de mariscos</titulo>
         <fecha>11 de octubre de 2017</fecha>
-        <introduccion>
-            Si buscas una opción saludable y deliciosa para la cena, no te pierdas estos tacos de pescado. Fáciles de preparar y llenos de sabor, ¡seguro que se convertirán en uno de tus favoritos!
-        </introduccion>
+        <introduccion>Esta cazuela de mariscos es una deliciosa y completa opción para cualquier comida o cena, y es perfecta para compartir con amigos y familiares. ¡Prepárala y disfruta del sabor del mar en tu hogar!</introduccion>
         <ingredientes>
-            <ingrediente>8 tortillas de maíz</ingrediente>
-            <ingrediente>500 g de filete de pescado blanco</ingrediente>
-            <ingrediente>1/4 taza de harina de maíz</ingrediente>
-            <ingrediente>1/4 taza de harina de trigo</ingrediente>
-            <ingrediente>1 cucharadita de chile en polvo</ingrediente>
-            <ingrediente>1 cucharadita de comino molido</ingrediente>
-            <ingrediente>1/2 cucharadita de ajo en polvo</ingrediente>
-            <ingrediente>1/2 cucharadita de sal</ingrediente>
-            <ingrediente>Aceite de oliva</ingrediente>
-            <ingrediente>1 taza de repollo morado cortado en tiras finas</ingrediente>
-            <ingrediente>1/2 taza de cilantro fresco picado</ingrediente>
-            <ingrediente>1/2 taza de salsa de yogur (opcional)</ingrediente>
-            <ingrediente>1/2 lima (opcional)</ingrediente>
+            <ingrediente>1 kg de mejillones</ingrediente>
+            <ingrediente>1 kg de almejas</ingrediente>
+            <ingrediente>1 kg de camarones</ingrediente>
+            <ingrediente>500 gr de calamares</ingrediente>
+            <ingrediente>2 cebollas</ingrediente>
+            <ingrediente>3 dientes de ajo</ingrediente>
+            <ingrediente>3 tomates maduros</ingrediente>
+            <ingrediente>1 pimiento rojo</ingrediente>
+            <ingrediente>1 pimiento verde</ingrediente>
+            <ingrediente>1/2 taza de aceite de oliva</ingrediente>
+            <ingrediente>1 taza de caldo de pescado</ingrediente>
+            <ingrediente>1/2 taza de vino blanco</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+            <ingrediente>Perejil fresco picado para decorar</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>1. Cortar el pescado en tiras de 2-3 cm de ancho.</p>
-            <p>2. En un tazón, mezclar las harinas, el chile en polvo, el comino, el ajo en polvo y la sal.</p>
-            <p>3. Poner las tiras de pescado en la mezcla de harina y cubrir bien.</p>
-            <p>4. Calentar el aceite de oliva en una sartén a fuego medio-alto. Cuando esté caliente, añadir el pescado y cocinar durante unos 3-4 minutos por cada lado, hasta que esté dorado y crujiente.</p>
-            <p>5. Calentar las tortillas en una sartén o en el microondas.</p>
-            <p>6. Para montar los tacos, colocar algunas tiras de repollo en el centro de cada tortilla, seguido de algunas tiras de pescado. Espolvorear un poco de cilantro picado y añadir una cucharada de salsa de yogur, si se desea. Exprimir un poco de jugo de lima por encima, si se quiere un sabor extra. </p>
+            <p>1. En una olla grande, coloca los mejillones y las almejas con un poco de agua y cocina hasta que se abran. Retira los mariscos de las conchas y reserva.</p>
+            <p>2. En una sartén grande, calienta el aceite de oliva y agrega la cebolla y el ajo picados. Sofríe a fuego medio hasta que estén dorados.</p>
+            <p>3. Agrega los tomates picados y los pimientos cortados en cubos pequeños. Cocina por unos minutos hasta que los vegetales estén suaves.</p>
+            <p>4. Agrega los calamares cortados en anillos y cocina por unos minutos más.</p>
+            <p>5. Agrega el caldo de pescado y el vino blanco. Deja cocinar por unos 10 minutos.</p>
+            <p>6. Agrega los camarones y cocina por unos minutos hasta que estén rosados.</p>
+            <p>7. Agrega los mejillones y almejas sin conchas. Mezcla bien y deja cocinar por unos minutos.</p>
+            <p>8. Sirve la cazuela caliente, decorada con perejil fresco picado.</p>
         </preparacion>
 </receta>

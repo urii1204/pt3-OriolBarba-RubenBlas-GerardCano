@@ -1,30 +1,33 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Lomo de cerdo en salsa de champiñones</titulo>
+        <titulo>Carne guisada</titulo>
         <fecha>11 de octubre de 2017</fecha>
         <introduccion>
-            Si buscas una receta fácil y deliciosa para sorprender a tus invitados, este lomo de cerdo en salsa de champiñones es una excelente opción. La carne queda tierna y jugosa y la salsa es muy sabrosa gracias al sabor de los champiñones.
+            Una deliciosa y reconfortante receta de carne guisada perfecta para los días fríos de invierno.
         </introduccion>
         <ingredientes>
-            <ingrediente>1 lomo de cerdo (1 kg aproximadamente)</ingrediente>
-            <ingrediente>1 cebolla grande</ingrediente>
-            <ingrediente>2 dientes de ajo</ingrediente>
-            <ingrediente>200 gr de champiñones</ingrediente>
-            <ingrediente>1/2 vaso de vino blanco</ingrediente>
-            <ingrediente>1/2 vaso de caldo de pollo</ingrediente>
-            <ingrediente>2 cucharadas de harina</ingrediente>
+            <ingrediente>1 kg de carne de ternera para guisar</ingrediente>
+            <ingrediente>2 cebollas grandes</ingrediente>
+            <ingrediente>3 dientes de ajo</ingrediente>
+            <ingrediente>2 zanahorias grandes</ingrediente>
+            <ingrediente>2 hojas de laurel</ingrediente>
             <ingrediente>1 ramita de tomillo fresco</ingrediente>
+            <ingrediente>1 ramita de romero fresco</ingrediente>
+            <ingrediente>1 cucharada de pimentón dulce</ingrediente>
+            <ingrediente>1 cucharada de harina</ingrediente>
+            <ingrediente>750 ml de caldo de carne</ingrediente>
             <ingrediente>Aceite de oliva</ingrediente>
             <ingrediente>Sal y pimienta al gusto</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>1. En una cazuela, calentar un poco de aceite de oliva y dorar el lomo de cerdo previamente salpimentado a fuego medio-alto, hasta que se dore por todas partes. Retirar de la cazuela y reservar.</p>
-            <p>2. En la misma cazuela, añadir un poco más de aceite y rehogar la cebolla y el ajo picados hasta que se ablanden.</p>
-            <p>3. Agregar los champiñones limpios y cortados en láminas y rehogar todo junto unos minutos hasta que los champiñones estén tiernos.</p>
-            <p>4. Espolvorear la harina y remover bien hasta que se mezcle con las verduras y se tueste un poco.</p>
-            <p>5. Incorporar el vino blanco y el caldo de pollo poco a poco, removiendo constantemente con una cuchara de madera hasta que la salsa espese y tenga una consistencia homogénea. Añadir el tomillo fresco y dejar cocinar unos minutos a fuego bajo.</p>
-            <p>6. Volver a colocar el lomo de cerdo en la cazuela y cubrir con la salsa de champiñones.</p>
-            <p>7. Tapar la cazuela y cocinar a fuego bajo durante unos 40 minutos o hasta que la carne esté tierna y la salsa haya reducido y espesado. Si es necesario, añadir un poco más de caldo de pollo durante la cocción.</p>
-            <p>8. Servir el lomo de cerdo en salsa de champiñones caliente, cortado en rodajas y acompañado de patatas fritas o arroz blanco.</p>
+                1. Cortar la carne en cubos de aproximadamente 2 cm y salpimentar al gusto.
+                2. Pelar y picar las cebollas y los ajos. Pelar y cortar las zanahorias en rodajas.
+                3. En una cazuela grande, calentar un poco de aceite de oliva y dorar la carne a fuego alto hasta que esté dorada por todos lados. Retirar la carne de la cazuela y reservar.
+                4. En la misma cazuela, añadir un poco más de aceite si es necesario y sofreír la cebolla y el ajo a fuego medio hasta que estén dorados. Agregar las zanahorias y cocinar por unos minutos más.
+
+                5. Agregar la cucharada de harina y el pimentón dulce y mezclar bien. Cocinar por un minuto más.
+                6. Añadir la carne de nuevo a la cazuela junto con las hojas de laurel, la ramita de tomillo y la ramita de romero. Agregar suficiente caldo de carne para cubrir la carne y mezclar bien. Llevar a ebullición y reducir el fuego a bajo. Tapar la cazuela y cocinar a fuego lento durante al menos 1 hora y media o hasta que la carne esté tierna.
+                7. Si la salsa está demasiado líquida, retirar la tapa y cocinar a fuego lento durante unos minutos más hasta que la salsa se espese. Si está demasiado espesa, añadir un poco más de caldo de carne.
+                8. Servir caliente acompañado de patatas o arroz.
         </preparacion>
 </receta>

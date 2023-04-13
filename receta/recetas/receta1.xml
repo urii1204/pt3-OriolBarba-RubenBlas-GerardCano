@@ -1,28 +1,30 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Patatas a la riojana</titulo>
-        <fecha>11 de octubre de 2017</fecha>
-        <introduccion>Las patatas a la riojana es un plato típico de la cocina española, originario de la región de La Rioja. Es un guiso de patatas con chorizo y pimiento que se suele tomar como plato principal.</introduccion>
-        <ingredientes>
-            <ingrediente>1 kg de patatas</ingrediente>
-            <ingrediente>2 chorizos</ingrediente>
-            <ingrediente>1 pimiento rojo</ingrediente>
-            <ingrediente>1 cebolla</ingrediente>
-            <ingrediente>2 dientes de ajo</ingrediente>
-            <ingrediente>1 cucharadita de pimentón dulce</ingrediente>
-            <ingrediente>Sal y pimienta al gusto</ingrediente>
-            <ingrediente>Aceite de oliva</ingrediente>
-            <ingrediente>Agua</ingrediente>
-        </ingredientes>
-        <preparacion>
-            <p>1. Pelar y cortar las patatas en trozos medianos.</p>
-            <p>2. Cortar el chorizo y el pimiento en trozos pequeños.</p>
-            <p>3. Picar la cebolla y los dientes de ajo.</p>
-            <p>4. En una olla grande, calentar un poco de aceite de oliva y añadir la cebolla y los ajos picados. Sofreír hasta que estén dorados.</p>
-            <p>5. Añadir el chorizo y el pimiento y continuar sofriendo durante unos minutos más.</p>
-            <p>6. Añadir el pimentón dulce y mezclar bien.</p>
-            <p>7. Añadir las patatas y cubrirlas con agua. Añadir sal y pimienta al gusto.</p>
-            <p>8. Cocinar a fuego medio-bajo durante unos 45 minutos, hasta que las patatas estén tiernas y el guiso tenga la consistencia deseada.</p>
-            <p>9. Servir caliente.</p>
-        </preparacion>
-    </receta>
+  <titulo>Callos a la Gallega</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>Los callos a la gallega son un plato típico de la cocina gallega que se prepara con tripas de ternera, chorizo, morcilla y patatas. Es un plato sabroso y contundente, ideal para los días fríos.</introduccion>
+  <ingredientes>
+    <ingrediente>1 kg de tripas de ternera</ingrediente>
+    <ingrediente>200 g de chorizo</ingrediente>
+    <ingrediente>200 g de morcilla</ingrediente>
+    <ingrediente>4 patatas</ingrediente>
+    <ingrediente>1 cebolla</ingrediente>
+    <ingrediente>2 dientes de ajo</ingrediente>
+    <ingrediente>2 hojas de laurel</ingrediente>
+    <ingrediente>1 cucharadita de pimentón</ingrediente>
+    <ingrediente>aceite de oliva</ingrediente>
+    <ingrediente>sal y pimienta al gusto</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Limpiar las tripas de ternera y cortar en trozos pequeños.</p>
+    <p>2. Pelar las patatas y cortar en cubos.</p>
+    <p>3. Picar finamente la cebolla y el ajo.</p>
+    <p>4. En una olla grande, calentar un poco de aceite de oliva y sofreír la cebolla y el ajo hasta que estén dorados.</p>
+    <p>5. Agregar las tripas de ternera a la olla y sofreír durante unos minutos.</p>
+    <p>6. Agregar el chorizo y la morcilla cortados en rodajas, las hojas de laurel, el pimentón, sal y pimienta al gusto. Mezclar bien.</p>
+    <p>7. Añadir agua suficiente para cubrir todo y llevar a ebullición.</p>
+    <p>8. Bajar el fuego y cocinar a fuego lento durante unas 2 horas, hasta que las tripas estén tiernas.</p>
+    <p>9. Agregar las patatas y cocinar hasta que estén tiernas.</p>
+    <p>10. Rectificar la sal y la pimienta al gusto y servir caliente.</p>
+  </preparacion>
+</receta>

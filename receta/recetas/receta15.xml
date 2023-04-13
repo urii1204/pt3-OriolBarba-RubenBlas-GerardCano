@@ -1,29 +1,28 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Salmón al horno con verduras</titulo>
+        <titulo>Rigatoni con salsa de tomate y berenjenas</titulo>
         <fecha>11 de octubre de 2017</fecha>
         <introduccion>
-            Esta receta de salmón al horno con verduras es fácil de preparar y muy saludable. El salmón se cocina con vegetales frescos y hierbas aromáticas, creando un plato lleno de sabor y nutrientes.
+            Esta receta de pasta con salsa de tomate y berenjenas es una deliciosa opción para un almuerzo o cena. La salsa de tomate se combina perfectamente con el sabor ahumado de las berenjenas para crear un plato sabroso y nutritivo.
         </introduccion>
         <ingredientes>
-            <ingrediente>4 filetes de salmón</ingrediente>
-            <ingrediente>1 calabacín</ingrediente>
-            <ingrediente>1 pimiento rojo</ingrediente>
-            <ingrediente>1 pimiento verde</ingrediente>
+            <ingrediente>400 gr de rigatoni</ingrediente>
             <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>2 berenjenas</ingrediente>
             <ingrediente>2 dientes de ajo</ingrediente>
-            <ingrediente>2 ramas de romero fresco</ingrediente>
-            <ingrediente>2 ramas de tomillo fresco</ingrediente>
-            <ingrediente>Aceite de oliva</ingrediente>
-            <ingrediente>Sal y pimienta</ingrediente>
+            <ingrediente>400 gr de tomates pelados</ingrediente>
+            <ingrediente>1 ramita de albahaca fresca</ingrediente>
+            <ingrediente>50 gr de queso parmesano rallado</ingrediente>
+            <ingrediente>4 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta negra molida</ingrediente>
         </ingredientes>
         <preparacion>
-            <p>1. Precalentar el horno a 200°C.</p>
-            <p>2. Cortar los vegetales en trozos grandes y picar los ajos.</p>
-            <p>3. Colocar los filetes de salmón en una bandeja para hornear y sazonar con sal y pimienta.</p>
-            <p>4. Distribuir los vegetales alrededor del salmón y agregar los ajos, el romero y el tomillo.</p>
-            <p>5. Rociar todo con aceite de oliva y mezclar bien.</p>
-            <p>6. Hornear durante 15-20 minutos, o hasta que el salmón esté cocido y los vegetales estén tiernos.</p>
-            <p>7. Servir caliente y disfrutar.</p>
+            <p>1. Pelar y cortar la cebolla y el ajo en trozos pequeños. Cortar las berenjenas en cubos de tamaño mediano.</p>
+            <p>2. Calentar 2 cucharadas de aceite de oliva en una sartén grande y añadir la cebolla y el ajo. Cocinar hasta que estén dorados.</p>
+            <p>3. Agregar las berenjenas y cocinar por 10 minutos, revolviendo de vez en cuando.</p>
+            <p>4. Añadir los tomates pelados y triturados a la sartén, junto con la ramita de albahaca fresca. Cocinar por 10 minutos más.</p>
+            <p>5. Mientras tanto, cocinar la pasta en una olla grande de agua con sal, siguiendo las instrucciones del paquete hasta que esté al dente.</p>
+            <p>6. Escurrir la pasta y agregarla a la sartén con la salsa de tomate y berenjenas. Mezclar bien.</p>
+            <p>7. Añadir sal y pimienta negra molida al gusto. Servir caliente, espolvoreado con queso parmesano rallado.</p>
         </preparacion>
 </receta>

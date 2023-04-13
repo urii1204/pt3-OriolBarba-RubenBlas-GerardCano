@@ -1,32 +1,23 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-        <titulo>Cazuela de mariscos</titulo>
-        <fecha>11 de octubre de 2017</fecha>
-        <introduccion>Esta cazuela de mariscos es una deliciosa y completa opción para cualquier comida o cena, y es perfecta para compartir con amigos y familiares. ¡Prepárala y disfruta del sabor del mar en tu hogar!</introduccion>
-        <ingredientes>
-            <ingrediente>1 kg de mejillones</ingrediente>
-            <ingrediente>1 kg de almejas</ingrediente>
-            <ingrediente>1 kg de camarones</ingrediente>
-            <ingrediente>500 gr de calamares</ingrediente>
-            <ingrediente>2 cebollas</ingrediente>
-            <ingrediente>3 dientes de ajo</ingrediente>
-            <ingrediente>3 tomates maduros</ingrediente>
-            <ingrediente>1 pimiento rojo</ingrediente>
-            <ingrediente>1 pimiento verde</ingrediente>
-            <ingrediente>1/2 taza de aceite de oliva</ingrediente>
-            <ingrediente>1 taza de caldo de pescado</ingrediente>
-            <ingrediente>1/2 taza de vino blanco</ingrediente>
-            <ingrediente>Sal y pimienta al gusto</ingrediente>
-            <ingrediente>Perejil fresco picado para decorar</ingrediente>
-        </ingredientes>
-        <preparacion>
-            <p>1. En una olla grande, coloca los mejillones y las almejas con un poco de agua y cocina hasta que se abran. Retira los mariscos de las conchas y reserva.</p>
-            <p>2. En una sartén grande, calienta el aceite de oliva y agrega la cebolla y el ajo picados. Sofríe a fuego medio hasta que estén dorados.</p>
-            <p>3. Agrega los tomates picados y los pimientos cortados en cubos pequeños. Cocina por unos minutos hasta que los vegetales estén suaves.</p>
-            <p>4. Agrega los calamares cortados en anillos y cocina por unos minutos más.</p>
-            <p>5. Agrega el caldo de pescado y el vino blanco. Deja cocinar por unos 10 minutos.</p>
-            <p>6. Agrega los camarones y cocina por unos minutos hasta que estén rosados.</p>
-            <p>7. Agrega los mejillones y almejas sin conchas. Mezcla bien y deja cocinar por unos minutos.</p>
-            <p>8. Sirve la cazuela caliente, decorada con perejil fresco picado.</p>
-        </preparacion>
+  <titulo>Salmón a la parrilla</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>Esta receta es perfecta para una cena saludable y deliciosa.</introduccion>
+  <ingredientes>
+    <ingrediente>4 filetes de salmón</ingrediente>
+    <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+    <ingrediente>Sal y pimienta negra</ingrediente>
+    <ingrediente>Jugo de medio limón</ingrediente>
+    <ingrediente>1 diente de ajo picado</ingrediente>
+    <ingrediente>2 cucharadas de perejil fresco picado</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Precalentar la parrilla a fuego medio-alto.</p>
+    <p>2. En un tazón pequeño, mezclar el aceite de oliva, el jugo de limón, el ajo picado y el perejil.</p>
+    <p>3. Sazonar los filetes de salmón con sal y pimienta.</p>
+    <p>4. Untar los filetes con la mezcla de aceite de oliva y ajo.</p>
+    <p>5. Colocar los filetes de salmón en la parrilla con la piel hacia abajo.</p>
+    <p>6. Cocinar durante 5-7 minutos por lado, o hasta que estén dorados y cocidos.</p>
+    <p>7. Servir caliente con una ensalada fresca y arroz integral.</p>
+  </preparacion>
 </receta>

@@ -1,27 +1,29 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-  <titulo>Pasta con salsa de coliflor y pimienta de jamaica</titulo>
+  <titulo>Ensalada de pasta</titulo>
   <fecha>11 de octubre de 2017</fecha>
   <introduccion>
-    Una receta vegetariana y saludable de pasta con salsa cremosa de coliflor y un toque de pimienta de jamaica para darle un sabor único.
+    Una ensalada refrescante y nutritiva que combina pasta, verduras y aderezo de limón.
   </introduccion>
   <ingredientes>
-    <ingrediente>400 gramos de pasta</ingrediente>
-    <ingrediente>1 coliflor grande</ingrediente>
-    <ingrediente>1 cebolla picada</ingrediente>
-    <ingrediente>2 dientes de ajo picados</ingrediente>
-    <ingrediente>1 cucharada de aceite de oliva</ingrediente>
-    <ingrediente>2 tazas de caldo de verduras</ingrediente>
-    <ingrediente>1 cucharadita de pimienta de jamaica</ingrediente>
+    <ingrediente>200 gramos de pasta corta</ingrediente>
+    <ingrediente>1/2 taza de maíz dulce</ingrediente>
+    <ingrediente>1/2 taza de guisantes</ingrediente>
+    <ingrediente>1/2 taza de pimiento rojo picado</ingrediente>
+    <ingrediente>1/2 taza de zanahoria rallada</ingrediente>
+    <ingrediente>1/4 taza de cebolla roja picada</ingrediente>
+    <ingrediente>1/4 taza de aceitunas negras picadas</ingrediente>
+    <ingrediente>1/4 taza de queso feta desmenuzado</ingrediente>
+    <ingrediente>3 cucharadas de aceite de oliva</ingrediente>
+    <ingrediente>2 cucharadas de jugo de limón fresco</ingrediente>
+    <ingrediente>1 cucharada de miel</ingrediente>
+    <ingrediente>1 cucharadita de mostaza dijon</ingrediente>
     <ingrediente>Sal y pimienta al gusto</ingrediente>
-    <ingrediente>Queso parmesano rallado para servir (opcional)</ingrediente>
   </ingredientes>
   <preparacion>
-    <p>Cocer la pasta según las instrucciones del paquete.</p>
-    <p>Cortar la coliflor en floretes y cocerla en agua con sal durante unos 10-15 minutos hasta que esté tierna. Escurrir y reservar.</p>
-    <p>En una sartén grande, calentar el aceite de oliva y saltear la cebolla y el ajo hasta que estén dorados.</p>
-    <p>Añadir la coliflor y el caldo de verduras a la sartén y cocer a fuego medio durante unos 5 minutos.</p>
-    <p>Retirar la sartén del fuego y añadir la pimienta de jamaica. Triturar la salsa con una batidora de mano hasta que quede suave y cremosa.</p>
-    <p>Servir la pasta caliente con la salsa de coliflor por encima. Añadir queso parmesano rallado al gusto si se desea.</p>
+    <p>Cocine la pasta en agua con sal según las instrucciones del paquete hasta que esté al dente.</p>
+    <p>Mientras tanto, prepare las verduras y el aderezo. Para hacer el aderezo, combine el aceite de oliva, el jugo de limón, la miel, la mostaza dijon, la sal y la pimienta en un tazón pequeño y mezcle bien.</p>
+    <p>Escurra la pasta y enjuague con agua fría. Colóquela en un tazón grande para ensalada y añada el maíz, los guisantes, el pimiento rojo, la zanahoria, la cebolla roja y las aceitunas. Vierta el aderezo sobre la ensalada y mezcle bien.</p>
+    <p>Deje enfriar en la nevera durante al menos una hora antes de servir. Antes de servir, añada el queso feta desmenuzado y mezcle suavemente.</p>
   </preparacion>
 </receta>

@@ -1,26 +1,31 @@
 <?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
-  <titulo>Brownie</titulo>
-  <fecha>11 de octubre de 2017</fecha>
-  <introduccion>Este postre de chocolate es perfecto para cualquier ocasión. Su textura densa y suave, con el contraste del sabor a chocolate y nueces lo hacen irresistible.</introduccion>
-  <ingredientes>
-    <ingrediente>200 gramos de chocolate negro</ingrediente>
-    <ingrediente>200 gramos de mantequilla</ingrediente>
-    <ingrediente>150 gramos de azúcar</ingrediente>
-    <ingrediente>3 huevos</ingrediente>
-    <ingrediente>100 gramos de harina de trigo</ingrediente>
-    <ingrediente>1 cucharadita de polvo de hornear</ingrediente>
-    <ingrediente>50 gramos de nueces picadas</ingrediente>
-  </ingredientes>
-  <preparacion>
-    <p>1. Precalentar el horno a 180 grados Celsius.</p>
-    <p>2. En un tazón, derretir el chocolate con la mantequilla en el microondas o a baño maría.</p>
-    <p>3. En otro tazón, batir los huevos con el azúcar hasta obtener una mezcla homogénea.</p>
-    <p>4. Añadir el chocolate derretido a la mezcla de huevos y azúcar y mezclar bien.</p>
-    <p>5. Agregar la harina y el polvo de hornear y mezclar hasta que estén bien incorporados.</p>
-    <p>6. Agregar las nueces picadas y mezclar.</p>
-    <p>7. Verter la mezcla en un molde para hornear previamente engrasado y enharinado.</p>
-    <p>8. Hornear durante 25-30 minutos, hasta que al insertar un palillo en el centro del brownie, este salga limpio.</p>
-    <p>9. Dejar enfriar en el molde durante 10 minutos antes de desmoldar y servir.</p>
-  </preparacion>
+        <titulo>Cheesecake de frutos rojos</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>Este postre es una deliciosa combinación de queso crema y frutos rojos sobre una base de galletas. Es perfecto para compartir en cualquier ocasión especial.</introduccion>
+        <ingredientes>
+            <ingrediente>Para la base:
+                <ul>
+                    <li>200 g de galletas de vainilla</li>
+                    <li>100 g de mantequilla derretida</li>
+                </ul>
+            </ingrediente>
+            <ingrediente>Para el relleno:
+                <ul>
+                    <li>500 g de queso crema</li>
+                    <li>200 g de azúcar</li>
+                    <li>4 huevos</li>
+                    <li>1 cucharadita de esencia de vainilla</li>
+                    <li>200 g de frutos rojos (fresas, frambuesas, moras, arándanos)</li>
+                </ul>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. Precalentar el horno a 180°C.</p>
+            <p>2. Triturar las galletas y mezclarlas con la mantequilla derretida. Forrar el fondo de un molde desmontable con esta mezcla y presionar con una cuchara para que quede compacta. Reservar en la nevera durante 15 minutos.</p>
+            <p>3. En un bol, batir el queso crema con el azúcar hasta que esté cremoso. Añadir los huevos uno a uno, sin dejar de batir. Agregar la esencia de vainilla y mezclar bien.</p>
+            <p>4. Verter la mezcla sobre la base de galletas y alisar la superficie con una espátula. Colocar los frutos rojos sobre la mezcla, presionando ligeramente para que se hundan un poco.</p>
+            <p>5. Hornear durante 40-45 minutos o hasta que la superficie esté dorada y el centro esté firme al tacto.</p>
+            <p>6. Retirar del horno y dejar enfriar a temperatura ambiente. Refrigerar durante al menos 2 horas antes de servir.</p>
+        </preparacion>
 </receta>
