@@ -42,5 +42,4 @@
       <xsl:value-of select="."/>
     </li>
   </xsl:template>
-
 </xsl:stylesheet>
