@@ -1,0 +1,27 @@
+
+
+<receta>
+        <titulo>Brochetas de camarón y piña</titulo>
+        <fecha>13 de abril de 2023</fecha>
+        <introduccion>
+            Si estás buscando una cena saludable y fácil de hacer, estas brochetas de camarón y piña son una excelente opción. Con una combinación dulce y salada, son perfectas para una cena de verano en el patio trasero o para una comida rápida durante la semana. ¡Vamos a cocinar!
+        </introduccion>
+        <ingredientes>
+            <ingrediente>12 camarones grandes</ingrediente>
+            <ingrediente>1 piña mediana</ingrediente>
+            <ingrediente>1/4 taza de aceite de oliva</ingrediente>
+            <ingrediente>2 cucharadas de salsa de soja</ingrediente>
+            <ingrediente>2 cucharadas de miel</ingrediente>
+            <ingrediente>1 cucharadita de ajo picado</ingrediente>
+            <ingrediente>Palillos para brochetas</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. Precalentar la parrilla o asador a fuego medio-alto.</p>
+            <p>2. Pelar y desvenar los camarones. Cortar la piña en trozos del tamaño de los camarones.</p>
+            <p>3. En un tazón pequeño, mezclar el aceite de oliva, la salsa de soja, la miel y el ajo picado.</p>
+            <p>4. Insertar los camarones y la piña en los palillos para brochetas, alternando entre los dos.</p>
+            <p>5. Con un cepillo de cocina, cepillar la mezcla de aceite de oliva y miel sobre las brochetas.</p>
+            <p>6. Colocar las brochetas en la parrilla o asador y cocinar durante 2-3 minutos por lado, hasta que los camarones estén rosados y la piña esté dorada.</p>
+            <p>7. Servir caliente y disfrutar.</p>
+        </preparacion>
+</receta>

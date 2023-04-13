@@ -1,0 +1,29 @@
+<receta>
+        <titulo>Lomo de cerdo en salsa de champiñones</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>
+            Si buscas una receta fácil y deliciosa para sorprender a tus invitados, este lomo de cerdo en salsa de champiñones es una excelente opción. La carne queda tierna y jugosa y la salsa es muy sabrosa gracias al sabor de los champiñones.
+        </introduccion>
+        <ingredientes>
+            <ingrediente>1 lomo de cerdo (1 kg aproximadamente)</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>200 gr de champiñones</ingrediente>
+            <ingrediente>1/2 vaso de vino blanco</ingrediente>
+            <ingrediente>1/2 vaso de caldo de pollo</ingrediente>
+            <ingrediente>2 cucharadas de harina</ingrediente>
+            <ingrediente>1 ramita de tomillo fresco</ingrediente>
+            <ingrediente>Aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. En una cazuela, calentar un poco de aceite de oliva y dorar el lomo de cerdo previamente salpimentado a fuego medio-alto, hasta que se dore por todas partes. Retirar de la cazuela y reservar.</p>
+            <p>2. En la misma cazuela, añadir un poco más de aceite y rehogar la cebolla y el ajo picados hasta que se ablanden.</p>
+            <p>3. Agregar los champiñones limpios y cortados en láminas y rehogar todo junto unos minutos hasta que los champiñones estén tiernos.</p>
+            <p>4. Espolvorear la harina y remover bien hasta que se mezcle con las verduras y se tueste un poco.</p>
+            <p>5. Incorporar el vino blanco y el caldo de pollo poco a poco, removiendo constantemente con una cuchara de madera hasta que la salsa espese y tenga una consistencia homogénea. Añadir el tomillo fresco y dejar cocinar unos minutos a fuego bajo.</p>
+            <p>6. Volver a colocar el lomo de cerdo en la cazuela y cubrir con la salsa de champiñones.</p>
+            <p>7. Tapar la cazuela y cocinar a fuego bajo durante unos 40 minutos o hasta que la carne esté tierna y la salsa haya reducido y espesado. Si es necesario, añadir un poco más de caldo de pollo durante la cocción.</p>
+            <p>8. Servir el lomo de cerdo en salsa de champiñones caliente, cortado en rodajas y acompañado de patatas fritas o arroz blanco.</p>
+        </preparacion>
+</receta>

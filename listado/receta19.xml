@@ -1,0 +1,23 @@
+<receta>
+        <titulo>Ceviche de pescado</titulo>
+        <fecha>13 de abril de 2023</fecha>
+        <introduccion>El ceviche de pescado es un plato típico de varios países de Latinoamérica y consiste en marinar trozos de pescado fresco en limón y otros ingredientes, lo que le da un sabor único y refrescante.</introduccion>
+        <ingredientes>
+            <ingrediente>1 kg de pescado blanco fresco</ingrediente>
+            <ingrediente>1 cebolla roja picada</ingrediente>
+            <ingrediente>1 pimiento rojo picado</ingrediente>
+            <ingrediente>1 pimiento verde picado</ingrediente>
+            <ingrediente>1/2 taza de cilantro picado</ingrediente>
+            <ingrediente>1/2 taza de jugo de limón</ingrediente>
+            <ingrediente>1 ají limo picado</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. Cortar el pescado en cubos pequeños y reservar en un recipiente.</p>
+            <p>2. Agregar la cebolla, pimientos, cilantro y ají limo al recipiente con el pescado.</p>
+            <p>3. Agregar el jugo de limón al recipiente y mezclar bien.</p>
+            <p>4. Sazonar con sal y pimienta al gusto y mezclar nuevamente.</p>
+            <p>5. Dejar marinar en el refrigerador por al menos 30 minutos antes de servir.</p>
+            <p>6. Servir frío y disfrutar.</p>
+        </preparacion>
+</receta>

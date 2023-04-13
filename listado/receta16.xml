@@ -1,0 +1,22 @@
+<receta>
+  <titulo>Salmón a la parrilla</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>Esta receta es perfecta para una cena saludable y deliciosa.</introduccion>
+  <ingredientes>
+    <ingrediente>4 filetes de salmón</ingrediente>
+    <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+    <ingrediente>Sal y pimienta negra</ingrediente>
+    <ingrediente>Jugo de medio limón</ingrediente>
+    <ingrediente>1 diente de ajo picado</ingrediente>
+    <ingrediente>2 cucharadas de perejil fresco picado</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Precalentar la parrilla a fuego medio-alto.</p>
+    <p>2. En un tazón pequeño, mezclar el aceite de oliva, el jugo de limón, el ajo picado y el perejil.</p>
+    <p>3. Sazonar los filetes de salmón con sal y pimienta.</p>
+    <p>4. Untar los filetes con la mezcla de aceite de oliva y ajo.</p>
+    <p>5. Colocar los filetes de salmón en la parrilla con la piel hacia abajo.</p>
+    <p>6. Cocinar durante 5-7 minutos por lado, o hasta que estén dorados y cocidos.</p>
+    <p>7. Servir caliente con una ensalada fresca y arroz integral.</p>
+  </preparacion>
+</receta>

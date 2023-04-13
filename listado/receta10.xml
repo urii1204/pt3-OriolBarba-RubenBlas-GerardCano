@@ -1,0 +1,28 @@
+<receta>
+  <titulo>Ensalada de pasta</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>
+    Una ensalada refrescante y nutritiva que combina pasta, verduras y aderezo de limón.
+  </introduccion>
+  <ingredientes>
+    <ingrediente>200 gramos de pasta corta</ingrediente>
+    <ingrediente>1/2 taza de maíz dulce</ingrediente>
+    <ingrediente>1/2 taza de guisantes</ingrediente>
+    <ingrediente>1/2 taza de pimiento rojo picado</ingrediente>
+    <ingrediente>1/2 taza de zanahoria rallada</ingrediente>
+    <ingrediente>1/4 taza de cebolla roja picada</ingrediente>
+    <ingrediente>1/4 taza de aceitunas negras picadas</ingrediente>
+    <ingrediente>1/4 taza de queso feta desmenuzado</ingrediente>
+    <ingrediente>3 cucharadas de aceite de oliva</ingrediente>
+    <ingrediente>2 cucharadas de jugo de limón fresco</ingrediente>
+    <ingrediente>1 cucharada de miel</ingrediente>
+    <ingrediente>1 cucharadita de mostaza dijon</ingrediente>
+    <ingrediente>Sal y pimienta al gusto</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>Cocine la pasta en agua con sal según las instrucciones del paquete hasta que esté al dente.</p>
+    <p>Mientras tanto, prepare las verduras y el aderezo. Para hacer el aderezo, combine el aceite de oliva, el jugo de limón, la miel, la mostaza dijon, la sal y la pimienta en un tazón pequeño y mezcle bien.</p>
+    <p>Escurra la pasta y enjuague con agua fría. Colóquela en un tazón grande para ensalada y añada el maíz, los guisantes, el pimiento rojo, la zanahoria, la cebolla roja y las aceitunas. Vierta el aderezo sobre la ensalada y mezcle bien.</p>
+    <p>Deje enfriar en la nevera durante al menos una hora antes de servir. Antes de servir, añada el queso feta desmenuzado y mezcle suavemente.</p>
+  </preparacion>
+</receta>

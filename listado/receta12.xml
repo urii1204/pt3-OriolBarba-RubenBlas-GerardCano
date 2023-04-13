@@ -1,0 +1,20 @@
+<receta>
+        <titulo>Fettuccine Alfredo</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>Esta es una receta clásica italiana, muy fácil de hacer y deliciosa. La salsa cremosa de queso parmesano es el ingrediente estrella de este plato, que puedes servir como plato principal o como acompañamiento.</introduccion>
+        <ingredientes>
+            <ingrediente>400 gramos de fettuccine</ingrediente>
+            <ingrediente>1 taza de crema de leche</ingrediente>
+            <ingrediente>1 taza de queso parmesano rallado</ingrediente>
+            <ingrediente>1/2 taza de mantequilla</ingrediente>
+            <ingrediente>1 diente de ajo picado</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>Cocina la pasta en una olla con agua hirviendo y sal durante unos 10 minutos o hasta que esté al dente. Escurre y reserva.</p>
+            <p>Mientras tanto, en una sartén grande, derrite la mantequilla a fuego medio. Agrega el ajo picado y cocina por un minuto hasta que esté fragante.</p>
+            <p>Añade la crema de leche a la sartén y cocina hasta que se caliente, revolviendo constantemente. Agrega el queso parmesano rallado y sigue revolviendo hasta que se derrita y la salsa esté suave y cremosa.</p>
+            <p>Sazona con sal y pimienta al gusto.</p>
+            <p>Mezcla la salsa con la pasta y sirve caliente.</p>
+        </preparacion>
+</receta>

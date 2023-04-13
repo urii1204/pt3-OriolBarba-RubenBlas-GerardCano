@@ -1,0 +1,27 @@
+<receta>
+        <titulo>Rigatoni con salsa de tomate y berenjenas</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>
+            Esta receta de pasta con salsa de tomate y berenjenas es una deliciosa opción para un almuerzo o cena. La salsa de tomate se combina perfectamente con el sabor ahumado de las berenjenas para crear un plato sabroso y nutritivo.
+        </introduccion>
+        <ingredientes>
+            <ingrediente>400 gr de rigatoni</ingrediente>
+            <ingrediente>1 cebolla</ingrediente>
+            <ingrediente>2 berenjenas</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>400 gr de tomates pelados</ingrediente>
+            <ingrediente>1 ramita de albahaca fresca</ingrediente>
+            <ingrediente>50 gr de queso parmesano rallado</ingrediente>
+            <ingrediente>4 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>Sal y pimienta negra molida</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. Pelar y cortar la cebolla y el ajo en trozos pequeños. Cortar las berenjenas en cubos de tamaño mediano.</p>
+            <p>2. Calentar 2 cucharadas de aceite de oliva en una sartén grande y añadir la cebolla y el ajo. Cocinar hasta que estén dorados.</p>
+            <p>3. Agregar las berenjenas y cocinar por 10 minutos, revolviendo de vez en cuando.</p>
+            <p>4. Añadir los tomates pelados y triturados a la sartén, junto con la ramita de albahaca fresca. Cocinar por 10 minutos más.</p>
+            <p>5. Mientras tanto, cocinar la pasta en una olla grande de agua con sal, siguiendo las instrucciones del paquete hasta que esté al dente.</p>
+            <p>6. Escurrir la pasta y agregarla a la sartén con la salsa de tomate y berenjenas. Mezclar bien.</p>
+            <p>7. Añadir sal y pimienta negra molida al gusto. Servir caliente, espolvoreado con queso parmesano rallado.</p>
+        </preparacion>
+</receta>

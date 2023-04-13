@@ -1,0 +1,28 @@
+<receta>
+        <titulo>Alubias con chorizo</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>
+            Si te apetece una receta reconfortante y deliciosa, no dudes en probar estas alubias con chorizo. Es un plato típico de la gastronomía española que se suele servir como plato único en días fríos de invierno.
+        </introduccion>
+        <ingredientes>
+            <ingrediente>500 gramos de alubias blancas</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>1 pimiento verde</ingrediente>
+            <ingrediente>1 tomate maduro</ingrediente>
+            <ingrediente>100 gramos de chorizo</ingrediente>
+            <ingrediente>1 hoja de laurel</ingrediente>
+            <ingrediente>Aceite de oliva virgen extra</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimentón dulce</ingrediente>
+            <ingrediente>Agua</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. En primer lugar, ponemos las alubias en remojo durante toda la noche.</p>
+            <p>2. Al día siguiente, pelamos y picamos finamente la cebolla, el ajo y el pimiento verde. En una cazuela con aceite de oliva, sofreímos estas verduras a fuego medio hasta que estén doradas.</p>
+            <p>3. Añadimos el chorizo cortado en rodajas y lo doramos durante unos minutos.</p>
+            <p>4. Agregamos el tomate pelado y picado y la hoja de laurel. Cocinamos a fuego lento durante unos minutos hasta que el tomate se haya deshecho.</p>
+            <p>5. Añadimos las alubias escurridas y cubrimos con agua. Añadimos una pizca de sal y una cucharadita de pimentón dulce. Removemos bien y dejamos cocinar a fuego lento durante unas dos horas.</p>
+            <p>6. Removemos de vez en cuando y añadimos más agua si fuera necesario. Cuando las alubias estén tiernas, apagamos el fuego y dejamos reposar unos minutos antes de servir.</p>
+        </preparacion>
+</receta>

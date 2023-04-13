@@ -1,0 +1,23 @@
+<receta>
+        <titulo>Linguine con camarones al ajillo</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>
+            Esta deliciosa receta de linguine con camarones al ajillo es fácil de hacer y perfecta para una cena elegante o para sorprender a tus invitados. La salsa de ajo y limón le da un toque de frescura a los camarones y el linguine los complementa perfectamente.
+        </introduccion>
+        <ingredientes>
+            <ingrediente>1 paquete de linguine</ingrediente>
+            <ingrediente>1/2 taza de aceite de oliva</ingrediente>
+            <ingrediente>1/2 taza de mantequilla</ingrediente>
+            <ingrediente>1 libra de camarones grandes pelados y desvenados</ingrediente>
+            <ingrediente>4 dientes de ajo picados</ingrediente>
+            <ingrediente>1/4 taza de perejil fresco picado</ingrediente>
+            <ingrediente>Jugo de 1 limón</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>Cocina el linguine de acuerdo a las instrucciones del paquete hasta que esté al dente. Escurre y reserva.</p>
+            <p>Mientras tanto, calienta el aceite de oliva y la mantequilla en una sartén grande a fuego medio-bajo. Agrega los camarones y el ajo y cocina por 3-4 minutos o hasta que los camarones estén rosados.</p>
+            <p>Agrega el perejil, el jugo de limón y sal y pimienta al gusto. Cocina por un minuto más.</p>
+            <p>Agrega el linguine a la sartén y mezcla bien con la salsa de camarones. Sirve caliente.</p>
+        </preparacion>
+</receta>

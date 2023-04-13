@@ -1,0 +1,25 @@
+<receta>
+        <titulo>Ensalada César</titulo>
+        <fecha>13 de abril de 2023</fecha>
+        <introduccion>La Ensalada César es una deliciosa y clásica ensalada que se ha ganado su lugar en la historia de la gastronomía. Fue inventada por el chef Caesar Cardini en Tijuana, México, en el año 1924. Esta ensalada es fácil de preparar y es perfecta para cualquier ocasión.</introduccion>
+        <ingredientes>
+            <ingrediente>1 lechuga romana</ingrediente>
+            <ingrediente>100 gramos de crutones</ingrediente>
+            <ingrediente>50 gramos de queso parmesano</ingrediente>
+            <ingrediente>2 filetes de anchoas</ingrediente>
+            <ingrediente>1 diente de ajo</ingrediente>
+            <ingrediente>1 cucharada de mostaza de Dijon</ingrediente>
+            <ingrediente>1 huevo</ingrediente>
+            <ingrediente>1/2 taza de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharada de vinagre de vino tinto</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>Lava la lechuga y corta las hojas en pedazos grandes. Coloca las hojas en un tazón grande.</p>
+            <p>En un tazón pequeño, machaca el ajo y las anchoas juntos hasta que formen una pasta.</p>
+            <p>Agrega la mostaza, el huevo, el vinagre y sal y pimienta al gusto. Bate todo junto con un tenedor.</p>
+            <p>Continúa batiendo mientras agregas lentamente el aceite de oliva hasta que se forme una salsa homogénea.</p>
+            <p>Agrega los crutones a la lechuga y mezcla bien. Vierte la salsa sobre la ensalada y mezcla nuevamente.</p>
+            <p>Ralla el queso parmesano sobre la ensalada y mezcla bien. Sirve inmediatamente.</p>
+        </preparacion>
+</receta>

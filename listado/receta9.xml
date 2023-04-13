@@ -1,0 +1,27 @@
+<receta>
+  <titulo>Lasagna de carne</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>La lasagna de carne es un platillo tradicional italiano que se ha popularizado alrededor del mundo. Esta deliciosa receta incluye una mezcla de carne molida, queso y salsa de tomate, todo cocido en capas con pasta de lasagna.</introduccion>
+  <ingredientes>
+    <ingrediente>1 paquete de pasta de lasagna</ingrediente>
+    <ingrediente>1 kilogramo de carne molida</ingrediente>
+    <ingrediente>1 cebolla picada</ingrediente>
+    <ingrediente>2 dientes de ajo picados</ingrediente>
+    <ingrediente>1 lata de salsa de tomate</ingrediente>
+    <ingrediente>2 tazas de queso rallado</ingrediente>
+    <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+    <ingrediente>Sal y pimienta al gusto</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Precalentar el horno a 180°C.</p>
+    <p>2. Cocer la pasta de lasagna según las instrucciones del paquete y reservar.</p>
+    <p>3. En una sartén grande, calentar el aceite de oliva y saltear la cebolla y el ajo hasta que estén dorados.</p>
+    <p>4. Agregar la carne molida y cocinar hasta que esté dorada.</p>
+    <p>5. Agregar la salsa de tomate y dejar cocinar por 10 minutos.</p>
+    <p>6. En una fuente para horno, colocar una capa de pasta de lasagna, una capa de la mezcla de carne y salsa, y una capa de queso rallado.</p>
+    <p>7. Repetir las capas hasta que se terminen los ingredientes, asegurándose de terminar con una capa de queso.</p>
+    <p>8. Cubrir con papel aluminio y hornear por 30 minutos.</p>
+    <p>9. Retirar el papel aluminio y hornear por 10 minutos más para que el queso se dore.</p>
+    <p>10. Servir caliente y disfrutar.</p>
+  </preparacion>
+</receta>
