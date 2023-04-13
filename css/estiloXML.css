@@ -1,0 +1,47 @@
+
+receta {
+    display: block;
+    padding: 30px;
+    margin: 30px;
+    border: 5px dotted #7aba96;
+    width: 60%;
+}
+titulo {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+}
+fecha {
+    margin-bottom: 18px;
+    margin-top: 15px;
+    display: block;
+    font-weight: bold;
+}
+introduccion {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+ingredientes {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+ingrediente {
+    display: block;
+}
+preparacion {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+ingrediente::before {content: "-";}
