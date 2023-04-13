@@ -1,0 +1,25 @@
+<receta>
+  <titulo>Brownie</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>Este postre de chocolate es perfecto para cualquier ocasión. Su textura densa y suave, con el contraste del sabor a chocolate y nueces lo hacen irresistible.</introduccion>
+  <ingredientes>
+    <ingrediente>200 gramos de chocolate negro</ingrediente>
+    <ingrediente>200 gramos de mantequilla</ingrediente>
+    <ingrediente>150 gramos de azúcar</ingrediente>
+    <ingrediente>3 huevos</ingrediente>
+    <ingrediente>100 gramos de harina de trigo</ingrediente>
+    <ingrediente>1 cucharadita de polvo de hornear</ingrediente>
+    <ingrediente>50 gramos de nueces picadas</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Precalentar el horno a 180 grados Celsius.</p>
+    <p>2. En un tazón, derretir el chocolate con la mantequilla en el microondas o a baño maría.</p>
+    <p>3. En otro tazón, batir los huevos con el azúcar hasta obtener una mezcla homogénea.</p>
+    <p>4. Añadir el chocolate derretido a la mezcla de huevos y azúcar y mezclar bien.</p>
+    <p>5. Agregar la harina y el polvo de hornear y mezclar hasta que estén bien incorporados.</p>
+    <p>6. Agregar las nueces picadas y mezclar.</p>
+    <p>7. Verter la mezcla en un molde para hornear previamente engrasado y enharinado.</p>
+    <p>8. Hornear durante 25-30 minutos, hasta que al insertar un palillo en el centro del brownie, este salga limpio.</p>
+    <p>9. Dejar enfriar en el molde durante 10 minutos antes de desmoldar y servir.</p>
+  </preparacion>
+</receta>
