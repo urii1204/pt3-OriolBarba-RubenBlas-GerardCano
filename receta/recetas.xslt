@@ -10,7 +10,7 @@
       </head>
       <body>
 
-        <xsl:apply-templates select="recetas/receta"/>
+        <xsl:apply-templates select="/receta"/>
       </body>
     </html>
   </xsl:template>
