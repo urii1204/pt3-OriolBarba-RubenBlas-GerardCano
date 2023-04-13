@@ -1,4 +1,4 @@
-<?xml-stylesheet href="/receta/recetas.xslt" type="text/xsl" ?>
+<?xml-stylesheet href="/pt3-OriolBarba-RubenBlas-GerardCano/receta/recetas.xslt" type="text/xsl" ?>
 <receta>
   <titulo>Pasta con salsa de coliflor y pimienta de jamaica</titulo>
   <fecha>11 de octubre de 2017</fecha>
@@ -25,4 +25,3 @@
     <p>Servir la pasta caliente con la salsa de coliflor por encima. Añadir queso parmesano rallado al gusto si se desea.</p>
   </preparacion>
 </receta>
-
