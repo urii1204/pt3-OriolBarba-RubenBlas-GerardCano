@@ -1,0 +1,25 @@
+<receta>
+        <titulo>Tarta de manzana</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>
+            La tarta de manzana es uno de los postres más clásicos y deliciosos que existen. Con esta receta, podrás preparar una tarta de manzana deliciosa y fácil de hacer en casa.
+        </introduccion>
+        <ingredientes>
+            <ingrediente>1 lámina de masa brisa</ingrediente>
+            <ingrediente>5 manzanas Granny Smith</ingrediente>
+            <ingrediente>1/2 taza de azúcar</ingrediente>
+            <ingrediente>1/2 taza de harina</ingrediente>
+            <ingrediente>2 cucharaditas de canela</ingrediente>
+            <ingrediente>1/4 cucharadita de nuez moscada</ingrediente>
+            <ingrediente>1/4 cucharadita de sal</ingrediente>
+            <ingrediente>1/2 taza de mantequilla fría</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>Paso 1: Precalentar el horno a 180°C.</p>
+            <p>Paso 2: Pelar y cortar las manzanas en rodajas finas. Mezclar las manzanas con el azúcar, la harina, la canela, la nuez moscada y la sal.</p>
+            <p>Paso 3: Colocar la lámina de masa brisa en un molde para tarta y recortar el exceso de masa.</p>
+            <p>Paso 4: Colocar la mezcla de manzanas sobre la masa brisa y distribuir la mantequilla fría en trozos pequeños por encima.</p>
+            <p>Paso 5: Hornear la tarta de manzana durante 45 minutos o hasta que la masa esté dorada y las manzanas estén tiernas.</p>
+            <p>Paso 6: Dejar enfriar antes de servir.</p>
+        </preparacion>
+</receta>

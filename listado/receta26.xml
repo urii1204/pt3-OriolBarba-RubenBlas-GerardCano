@@ -1,0 +1,28 @@
+<receta>
+        <titulo>Tiramisú</titulo>
+        <fecha>13 de abril de 2023</fecha>
+        <introduccion>
+            El tiramisú es un postre italiano que se elabora con capas de bizcochos empapados en café y una crema hecha a base de queso mascarpone, huevos y azúcar. Es un postre sencillo pero muy rico y se puede hacer de forma rápida y fácil.
+        </introduccion>
+        <ingredientes>
+            <ingrediente>6 huevos</ingrediente>
+            <ingrediente>500 gramos de queso mascarpone</ingrediente>
+            <ingrediente>150 gramos de azúcar</ingrediente>
+            <ingrediente>1 paquete de bizcochos de soletilla</ingrediente>
+            <ingrediente>1 taza de café fuerte</ingrediente>
+            <ingrediente>Cacao en polvo</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. Separar las claras de las yemas.</p>
+            <p>2. Batir las yemas con el azúcar hasta obtener una mezcla blanquecina.</p>
+            <p>3. Añadir el queso mascarpone y mezclar bien.</p>
+            <p>4. Montar las claras a punto de nieve.</p>
+            <p>5. Incorporar las claras a la mezcla anterior con movimientos suaves y envolventes.</p>
+            <p>6. Preparar una taza de café fuerte y mojar los bizcochos de soletilla en él.</p>
+            <p>7. Colocar una capa de bizcochos en el fondo de una fuente o molde para horno.</p>
+            <p>8. Cubrir los bizcochos con una capa de la mezcla de queso y huevo.</p>
+            <p>9. Repetir la operación hasta acabar con los ingredientes, terminando con una capa de la mezcla de queso.</p>
+            <p>10. Dejar enfriar en la nevera durante al menos dos horas.</p>
+            <p>11. Antes de servir, espolvorear cacao en polvo por encima.</p>
+        </preparacion>
+</receta>

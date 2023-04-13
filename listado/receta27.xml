@@ -1,0 +1,26 @@
+<receta>
+        <titulo>Crème brûlée</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>
+            La crème brûlée es un postre francés clásico que se caracteriza por su textura cremosa y su cubierta de caramelo crujiente. Es una receta sencilla pero requiere tiempo y cuidado para obtener el resultado perfecto. 
+        </introduccion>
+        <ingredientes>
+            <ingrediente>6 yemas de huevo</ingrediente>
+            <ingrediente>1/2 taza de azúcar</ingrediente>
+            <ingrediente>2 tazas de crema de leche</ingrediente>
+            <ingrediente>1 cucharadita de extracto de vainilla</ingrediente>
+            <ingrediente>Azúcar extra para caramelizar</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. Precalentar el horno a 150°C.</p>
+            <p>2. En un recipiente grande, batir las yemas de huevo con el azúcar hasta que se mezclen bien y la mezcla se vuelva de un color amarillo claro.</p>
+            <p>3. En una olla pequeña, calentar la crema de leche a fuego medio hasta que hierva.</p>
+            <p>4. Agregar la vainilla a la crema de leche caliente.</p>
+            <p>5. Verter la crema de leche caliente sobre la mezcla de yemas de huevo poco a poco, mientras se sigue batiendo con una batidora eléctrica a velocidad baja. Continuar batiendo hasta que todo esté bien combinado.</p>
+            <p>6. Colar la mezcla a través de un colador de malla fina para quitar cualquier grumo y dividir la mezcla en 6 moldes para crème brûlée.</p>
+            <p>7. Colocar los moldes en una fuente de horno y llenar la fuente con agua caliente hasta que cubra la mitad de los moldes.</p>
+            <p>8. Hornear durante 45-50 minutos hasta que la mezcla esté firme en los bordes pero todavía un poco temblorosa en el centro.</p>
+            <p>9. Retirar los moldes del horno y dejar enfriar a temperatura ambiente. Luego refrigerar durante al menos 2 horas o hasta por 2 días.</p>
+            <p>10. Justo antes de servir, espolvorear una capa uniforme de azúcar sobre cada crème brûlée y caramelizarla con un soplete de cocina o con el grill del horno hasta que se derrita y forme una capa dorada y crujiente.</p>
+        </preparacion>
+</receta>

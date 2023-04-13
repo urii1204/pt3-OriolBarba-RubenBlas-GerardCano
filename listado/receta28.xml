@@ -1,0 +1,34 @@
+<receta>
+  <titulo>Pastel de zanahoria</titulo>
+  <fecha>11 de octubre de 2017</fecha>
+  <introduccion>
+    El pastel de zanahoria es un postre delicioso y nutritivo que suele ser un éxito en cualquier ocasión. Su textura suave y su sabor a especias lo hacen irresistible para los amantes del dulce. A continuación, te presentamos la receta para que puedas prepararlo en casa.
+  </introduccion>
+  <ingredientes>
+    <ingrediente>3 zanahorias grandes</ingrediente>
+    <ingrediente>2 tazas de harina de trigo</ingrediente>
+    <ingrediente>1 cucharada de polvo para hornear</ingrediente>
+    <ingrediente>1/2 cucharada de bicarbonato de sodio</ingrediente>
+    <ingrediente>1/2 cucharada de canela molida</ingrediente>
+    <ingrediente>1/2 cucharada de jengibre molido</ingrediente>
+    <ingrediente>1/4 cucharada de nuez moscada</ingrediente>
+    <ingrediente>1/4 cucharada de sal</ingrediente>
+    <ingrediente>1 taza de azúcar</ingrediente>
+    <ingrediente>3 huevos</ingrediente>
+    <ingrediente>1 taza de aceite vegetal</ingrediente>
+    <ingrediente>1 cucharada de extracto de vainilla</ingrediente>
+    <ingrediente>1/2 taza de nueces picadas (opcional)</ingrediente>
+    <ingrediente>1/2 taza de pasas (opcional)</ingrediente>
+  </ingredientes>
+  <preparacion>
+    <p>1. Precalentar el horno a 180°C.</p>
+    <p>2. Pelar y rallar las zanahorias. Reservar.</p>
+    <p>3. En un tazón, mezclar la harina, el polvo para hornear, el bicarbonato, la canela, el jengibre, la nuez moscada y la sal.</p>
+    <p>4. En otro tazón, batir el azúcar, los huevos, el aceite y el extracto de vainilla hasta obtener una mezcla homogénea.</p>
+    <p>5. Agregar la mezcla de harina a la mezcla de huevo y mezclar bien.</p>
+    <p>6. Agregar las zanahorias ralladas, las nueces picadas y las pasas (si se desea) y mezclar bien.</p>
+    <p>7. Verter la mezcla en un molde para pastel previamente engrasado.</p>
+    <p>8. Hornear durante 35-40 minutos o hasta que al introducir un palillo en el centro, este salga limpio.</p>
+    <p>9. Dejar enfriar el pastel antes de servir.</p>
+  </preparacion>
+</receta>

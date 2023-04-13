@@ -1,0 +1,22 @@
+<receta>
+        <titulo>Crema catalana</titulo>
+        <fecha>11 de octubre de 2017</fecha>
+        <introduccion>La crema catalana es un postre típico de la gastronomía catalana, similar a la crème brûlée francesa. Se elabora con leche, yema de huevo, azúcar y maicena, y se caracteriza por una capa de azúcar caramelizado en la parte superior.</introduccion>
+        <ingredientes>
+            <ingrediente>1 litro de leche</ingrediente>
+            <ingrediente>8 yemas de huevo</ingrediente>
+            <ingrediente>150 gramos de azúcar</ingrediente>
+            <ingrediente>40 gramos de maicena</ingrediente>
+            <ingrediente>1 rama de canela</ingrediente>
+            <ingrediente>La piel de un limón</ingrediente>
+            <ingrediente>Azúcar para caramelizar</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <p>1. En una olla, colocar la leche a calentar junto con la canela y la piel de limón.</p>
+            <p>2. En un bol, batir las yemas de huevo con el azúcar y la maicena.</p>
+            <p>3. Cuando la leche empiece a hervir, retirar la canela y la piel de limón y añadir la mezcla de yemas de huevo y azúcar.</p>
+            <p>4. Cocinar a fuego medio, removiendo constantemente, hasta que la crema espese.</p>
+            <p>5. Retirar del fuego y dejar enfriar. Verter la crema en moldes individuales y refrigerar por unas horas.</p>
+            <p>6. Antes de servir, espolvorear azúcar sobre la superficie de la crema y caramelizar con un soplete o con la ayuda de un quemador.</p>
+        </preparacion>
+</receta>
